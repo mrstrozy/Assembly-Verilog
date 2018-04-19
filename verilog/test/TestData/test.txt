@@ -1,0 +1,1026 @@
+                   0 a=         x, b=         x, cin=x, cout=z, op=x, out=         z, zero=z, over=z
+                   0 a=         x, b=         x, cin=x, cout=z, op=x, out=         z, zero=x, over=x
+                   2 a=         x, b=         x, cin=x, cout=z, op=x, out=         X, zero=x, over=x
+                1000 a=         0, b=         0, cin=0, cout=z, op=0, out=         X, zero=x, over=x
+                1002 a=         0, b=         0, cin=0, cout=z, op=0, out=         x, zero=x, over=x
+                1006 a=         0, b=         0, cin=0, cout=z, op=0, out=         0, zero=x, over=x
+                1010 a=         0, b=         0, cin=0, cout=z, op=0, out=         0, zero=1, over=x
+                1015 a=         0, b=         0, cin=0, cout=z, op=0, out=         0, zero=1, over=1
+                2000 a=         0, b=         0, cin=1, cout=z, op=0, out=         0, zero=1, over=1
+                3000 a=         0, b=         1, cin=0, cout=z, op=0, out=         0, zero=1, over=1
+                3010 a=         0, b=         1, cin=0, cout=z, op=0, out=         0, zero=x, over=1
+                4000 a=         0, b=         1, cin=1, cout=z, op=0, out=         0, zero=x, over=1
+                5000 a=         1, b=         0, cin=0, cout=z, op=0, out=         0, zero=x, over=1
+                6000 a=         1, b=         0, cin=1, cout=z, op=0, out=         0, zero=x, over=1
+                7000 a=         1, b=         1, cin=0, cout=z, op=0, out=         0, zero=x, over=1
+                7006 a=         1, b=         1, cin=0, cout=z, op=0, out=         1, zero=x, over=1
+                7010 a=         1, b=         1, cin=0, cout=z, op=0, out=         1, zero=1, over=1
+                8000 a=         1, b=         1, cin=1, cout=z, op=0, out=         1, zero=1, over=1
+                9000 a=         0, b=         0, cin=0, cout=z, op=0, out=         1, zero=1, over=1
+                9006 a=         0, b=         0, cin=0, cout=z, op=0, out=         0, zero=1, over=1
+               10000 a=         0, b=         0, cin=1, cout=z, op=0, out=         0, zero=1, over=1
+               11000 a=         0, b=         1, cin=0, cout=z, op=0, out=         0, zero=1, over=1
+               11010 a=         0, b=         1, cin=0, cout=z, op=0, out=         0, zero=x, over=1
+               12000 a=         0, b=         1, cin=1, cout=z, op=0, out=         0, zero=x, over=1
+               13000 a=         1, b=         0, cin=0, cout=z, op=0, out=         0, zero=x, over=1
+               14000 a=         1, b=         0, cin=1, cout=z, op=0, out=         0, zero=x, over=1
+               15000 a=         1, b=         1, cin=0, cout=z, op=0, out=         0, zero=x, over=1
+               15006 a=         1, b=         1, cin=0, cout=z, op=0, out=         1, zero=x, over=1
+               15010 a=         1, b=         1, cin=0, cout=z, op=0, out=         1, zero=1, over=1
+               16000 a=         1, b=         1, cin=1, cout=z, op=0, out=         1, zero=1, over=1
+               17000 a=         0, b=         0, cin=0, cout=z, op=0, out=         1, zero=1, over=1
+               17006 a=         0, b=         0, cin=0, cout=z, op=0, out=         0, zero=1, over=1
+               18000 a=         0, b=         0, cin=1, cout=z, op=0, out=         0, zero=1, over=1
+               19000 a=         0, b=         1, cin=0, cout=z, op=0, out=         0, zero=1, over=1
+               19010 a=         0, b=         1, cin=0, cout=z, op=0, out=         0, zero=x, over=1
+               20000 a=         0, b=         1, cin=1, cout=z, op=0, out=         0, zero=x, over=1
+               21000 a=         1, b=         0, cin=0, cout=z, op=0, out=         0, zero=x, over=1
+               22000 a=         1, b=         0, cin=1, cout=z, op=0, out=         0, zero=x, over=1
+               23000 a=         1, b=         1, cin=0, cout=z, op=0, out=         0, zero=x, over=1
+               23006 a=         1, b=         1, cin=0, cout=z, op=0, out=         1, zero=x, over=1
+               23010 a=         1, b=         1, cin=0, cout=z, op=0, out=         1, zero=1, over=1
+               24000 a=         1, b=         1, cin=1, cout=z, op=0, out=         1, zero=1, over=1
+               25000 a=         0, b=         0, cin=0, cout=z, op=0, out=         1, zero=1, over=1
+               25006 a=         0, b=         0, cin=0, cout=z, op=0, out=         0, zero=1, over=1
+               26000 a=         0, b=         0, cin=1, cout=z, op=0, out=         0, zero=1, over=1
+               27000 a=         0, b=         1, cin=0, cout=z, op=0, out=         0, zero=1, over=1
+               27010 a=         0, b=         1, cin=0, cout=z, op=0, out=         0, zero=x, over=1
+               28000 a=         0, b=         1, cin=1, cout=z, op=0, out=         0, zero=x, over=1
+               29000 a=         1, b=         0, cin=0, cout=z, op=0, out=         0, zero=x, over=1
+               30000 a=         1, b=         0, cin=1, cout=z, op=0, out=         0, zero=x, over=1
+               31000 a=         1, b=         1, cin=0, cout=z, op=0, out=         0, zero=x, over=1
+               31006 a=         1, b=         1, cin=0, cout=z, op=0, out=         1, zero=x, over=1
+               31010 a=         1, b=         1, cin=0, cout=z, op=0, out=         1, zero=1, over=1
+               32000 a=         1, b=         1, cin=1, cout=z, op=0, out=         1, zero=1, over=1
+               33000 a=         0, b=         0, cin=0, cout=z, op=0, out=         1, zero=1, over=1
+               33006 a=         0, b=         0, cin=0, cout=z, op=0, out=         0, zero=1, over=1
+               34000 a=         0, b=         0, cin=1, cout=z, op=0, out=         0, zero=1, over=1
+               35000 a=         0, b=         1, cin=0, cout=z, op=0, out=         0, zero=1, over=1
+               35010 a=         0, b=         1, cin=0, cout=z, op=0, out=         0, zero=x, over=1
+               36000 a=         0, b=         1, cin=1, cout=z, op=0, out=         0, zero=x, over=1
+               37000 a=         1, b=         0, cin=0, cout=z, op=0, out=         0, zero=x, over=1
+               38000 a=         1, b=         0, cin=1, cout=z, op=0, out=         0, zero=x, over=1
+               39000 a=         1, b=         1, cin=0, cout=z, op=0, out=         0, zero=x, over=1
+               39006 a=         1, b=         1, cin=0, cout=z, op=0, out=         1, zero=x, over=1
+               39010 a=         1, b=         1, cin=0, cout=z, op=0, out=         1, zero=1, over=1
+               40000 a=         1, b=         1, cin=1, cout=z, op=0, out=         1, zero=1, over=1
+               41000 a=         0, b=         0, cin=0, cout=z, op=1, out=         1, zero=1, over=1
+               41006 a=         0, b=         0, cin=0, cout=z, op=1, out=         0, zero=1, over=1
+               41135 a=         0, b=         0, cin=0, cout=z, op=1, out=         0, zero=1, over=0
+               42000 a=         0, b=         0, cin=1, cout=z, op=1, out=         0, zero=1, over=0
+               43000 a=         0, b=         1, cin=0, cout=z, op=1, out=         0, zero=1, over=0
+               43006 a=         0, b=         1, cin=0, cout=z, op=1, out=         1, zero=1, over=0
+               43010 a=         0, b=         1, cin=0, cout=z, op=1, out=         1, zero=x, over=0
+               43134 a=         0, b=         1, cin=0, cout=z, op=1, out=         1, zero=x, over=1
+               44000 a=         0, b=         1, cin=1, cout=z, op=1, out=         1, zero=x, over=1
+               45000 a=         1, b=         0, cin=0, cout=z, op=1, out=         1, zero=x, over=1
+               45129 a=         1, b=         0, cin=0, cout=z, op=1, out=         1, zero=x, over=0
+               46000 a=         1, b=         0, cin=1, cout=z, op=1, out=         1, zero=x, over=0
+               47000 a=         1, b=         1, cin=0, cout=z, op=1, out=         1, zero=x, over=0
+               47010 a=         1, b=         1, cin=0, cout=z, op=1, out=         1, zero=1, over=0
+               48000 a=         1, b=         1, cin=1, cout=z, op=1, out=         1, zero=1, over=0
+               49000 a=         0, b=         0, cin=0, cout=z, op=1, out=         1, zero=1, over=0
+               49006 a=         0, b=         0, cin=0, cout=z, op=1, out=         0, zero=1, over=0
+               49129 a=         0, b=         0, cin=0, cout=z, op=1, out=         0, zero=1, over=1
+               49134 a=         0, b=         0, cin=0, cout=z, op=1, out=         0, zero=1, over=0
+               50000 a=         0, b=         0, cin=1, cout=z, op=1, out=         0, zero=1, over=0
+               51000 a=         0, b=         1, cin=0, cout=z, op=1, out=         0, zero=1, over=0
+               51006 a=         0, b=         1, cin=0, cout=z, op=1, out=         1, zero=1, over=0
+               51010 a=         0, b=         1, cin=0, cout=z, op=1, out=         1, zero=x, over=0
+               51134 a=         0, b=         1, cin=0, cout=z, op=1, out=         1, zero=x, over=1
+               52000 a=         0, b=         1, cin=1, cout=z, op=1, out=         1, zero=x, over=1
+               53000 a=         1, b=         0, cin=0, cout=z, op=1, out=         1, zero=x, over=1
+               53129 a=         1, b=         0, cin=0, cout=z, op=1, out=         1, zero=x, over=0
+               54000 a=         1, b=         0, cin=1, cout=z, op=1, out=         1, zero=x, over=0
+               55000 a=         1, b=         1, cin=0, cout=z, op=1, out=         1, zero=x, over=0
+               55010 a=         1, b=         1, cin=0, cout=z, op=1, out=         1, zero=1, over=0
+               56000 a=         1, b=         1, cin=1, cout=z, op=1, out=         1, zero=1, over=0
+               57000 a=         0, b=         0, cin=0, cout=z, op=1, out=         1, zero=1, over=0
+               57006 a=         0, b=         0, cin=0, cout=z, op=1, out=         0, zero=1, over=0
+               57129 a=         0, b=         0, cin=0, cout=z, op=1, out=         0, zero=1, over=1
+               57134 a=         0, b=         0, cin=0, cout=z, op=1, out=         0, zero=1, over=0
+               58000 a=         0, b=         0, cin=1, cout=z, op=1, out=         0, zero=1, over=0
+               59000 a=         0, b=         1, cin=0, cout=z, op=1, out=         0, zero=1, over=0
+               59006 a=         0, b=         1, cin=0, cout=z, op=1, out=         1, zero=1, over=0
+               59010 a=         0, b=         1, cin=0, cout=z, op=1, out=         1, zero=x, over=0
+               59134 a=         0, b=         1, cin=0, cout=z, op=1, out=         1, zero=x, over=1
+               60000 a=         0, b=         1, cin=1, cout=z, op=1, out=         1, zero=x, over=1
+               61000 a=         1, b=         0, cin=0, cout=z, op=1, out=         1, zero=x, over=1
+               61129 a=         1, b=         0, cin=0, cout=z, op=1, out=         1, zero=x, over=0
+               62000 a=         1, b=         0, cin=1, cout=z, op=1, out=         1, zero=x, over=0
+               63000 a=         1, b=         1, cin=0, cout=z, op=1, out=         1, zero=x, over=0
+               63010 a=         1, b=         1, cin=0, cout=z, op=1, out=         1, zero=1, over=0
+               64000 a=         1, b=         1, cin=1, cout=z, op=1, out=         1, zero=1, over=0
+               65000 a=         0, b=         0, cin=0, cout=z, op=1, out=         1, zero=1, over=0
+               65006 a=         0, b=         0, cin=0, cout=z, op=1, out=         0, zero=1, over=0
+               65129 a=         0, b=         0, cin=0, cout=z, op=1, out=         0, zero=1, over=1
+               65134 a=         0, b=         0, cin=0, cout=z, op=1, out=         0, zero=1, over=0
+               66000 a=         0, b=         0, cin=1, cout=z, op=1, out=         0, zero=1, over=0
+               67000 a=         0, b=         1, cin=0, cout=z, op=1, out=         0, zero=1, over=0
+               67006 a=         0, b=         1, cin=0, cout=z, op=1, out=         1, zero=1, over=0
+               67010 a=         0, b=         1, cin=0, cout=z, op=1, out=         1, zero=x, over=0
+               67134 a=         0, b=         1, cin=0, cout=z, op=1, out=         1, zero=x, over=1
+               68000 a=         0, b=         1, cin=1, cout=z, op=1, out=         1, zero=x, over=1
+               69000 a=         1, b=         0, cin=0, cout=z, op=1, out=         1, zero=x, over=1
+               69129 a=         1, b=         0, cin=0, cout=z, op=1, out=         1, zero=x, over=0
+               70000 a=         1, b=         0, cin=1, cout=z, op=1, out=         1, zero=x, over=0
+               71000 a=         1, b=         1, cin=0, cout=z, op=1, out=         1, zero=x, over=0
+               71010 a=         1, b=         1, cin=0, cout=z, op=1, out=         1, zero=1, over=0
+               72000 a=         1, b=         1, cin=1, cout=z, op=1, out=         1, zero=1, over=0
+               73000 a=         0, b=         0, cin=0, cout=z, op=1, out=         1, zero=1, over=0
+               73006 a=         0, b=         0, cin=0, cout=z, op=1, out=         0, zero=1, over=0
+               73129 a=         0, b=         0, cin=0, cout=z, op=1, out=         0, zero=1, over=1
+               73134 a=         0, b=         0, cin=0, cout=z, op=1, out=         0, zero=1, over=0
+               74000 a=         0, b=         0, cin=1, cout=z, op=1, out=         0, zero=1, over=0
+               75000 a=         0, b=         1, cin=0, cout=z, op=1, out=         0, zero=1, over=0
+               75006 a=         0, b=         1, cin=0, cout=z, op=1, out=         1, zero=1, over=0
+               75010 a=         0, b=         1, cin=0, cout=z, op=1, out=         1, zero=x, over=0
+               75134 a=         0, b=         1, cin=0, cout=z, op=1, out=         1, zero=x, over=1
+               76000 a=         0, b=         1, cin=1, cout=z, op=1, out=         1, zero=x, over=1
+               77000 a=         1, b=         0, cin=0, cout=z, op=1, out=         1, zero=x, over=1
+               77129 a=         1, b=         0, cin=0, cout=z, op=1, out=         1, zero=x, over=0
+               78000 a=         1, b=         0, cin=1, cout=z, op=1, out=         1, zero=x, over=0
+               79000 a=         1, b=         1, cin=0, cout=z, op=1, out=         1, zero=x, over=0
+               79010 a=         1, b=         1, cin=0, cout=z, op=1, out=         1, zero=1, over=0
+               80000 a=         1, b=         1, cin=1, cout=z, op=1, out=         1, zero=1, over=0
+               81000 a= 111111111, b= 429496729, cin=0, cout=z, op=2, out=         1, zero=1, over=0
+               81004 a= 111111111, b= 429496729, cin=0, cout=z, op=2, out=         0, zero=1, over=0
+               81010 a= 111111111, b= 429496729, cin=0, cout=z, op=2, out= 111111111, zero=x, over=0
+               81015 a= 111111111, b= 429496729, cin=0, cout=z, op=2, out= 111111111, zero=x, over=1
+               81016 a= 111111111, b= 429496729, cin=0, cout=z, op=2, out=  45690311, zero=x, over=1
+               81017 a= 111111111, b= 429496729, cin=0, cout=z, op=2, out=  37299654, zero=x, over=1
+               81018 a= 111111111, b= 429496729, cin=0, cout=z, op=2, out=   3737028, zero=x, over=1
+               81021 a= 111111111, b= 429496729, cin=0, cout=z, op=2, out=   3736900, zero=x, over=1
+               81022 a= 111111111, b= 429496729, cin=0, cout=z, op=2, out= 540607848, zero=x, over=1
+               81026 a= 111111111, b= 429496729, cin=0, cout=z, op=2, out= 540607856, zero=x, over=1
+               81030 a= 111111111, b= 429496729, cin=0, cout=z, op=2, out= 540607808, zero=x, over=1
+               81034 a= 111111111, b= 429496729, cin=0, cout=z, op=2, out= 540607840, zero=x, over=1
+               82000 a=         0, b=         0, cin=1, cout=z, op=2, out= 540607840, zero=x, over=1
+               82010 a=         0, b=         0, cin=1, cout=z, op=2, out= 581578657, zero=1, over=1
+               82011 a=         0, b=         0, cin=1, cout=z, op=2, out= 732609449, zero=1, over=1
+               82014 a=         0, b=         0, cin=1, cout=z, op=2, out= 572662304, zero=1, over=1
+               82015 a=         0, b=         0, cin=1, cout=z, op=2, out=         0, zero=1, over=1
+               83000 a=         0, b=         1, cin=0, cout=z, op=2, out=         0, zero=1, over=1
+               83010 a=         0, b=         1, cin=0, cout=z, op=2, out=         0, zero=x, over=1
+               83014 a=         0, b=         1, cin=0, cout=z, op=2, out=         1, zero=x, over=1
+               84000 a=         0, b=         1, cin=1, cout=z, op=2, out=         1, zero=x, over=1
+               85000 a=         1, b=         0, cin=0, cout=z, op=2, out=         1, zero=x, over=1
+               85010 a=         1, b=         0, cin=0, cout=z, op=2, out=         0, zero=x, over=1
+               85011 a=         1, b=         0, cin=0, cout=z, op=2, out=         2, zero=x, over=1
+               85014 a=         1, b=         0, cin=0, cout=z, op=2, out=         3, zero=x, over=1
+               85015 a=         1, b=         0, cin=0, cout=z, op=2, out=         1, zero=x, over=1
+               86000 a=         1, b=         0, cin=1, cout=z, op=2, out=         1, zero=x, over=1
+               87000 a=         1, b=         1, cin=0, cout=z, op=2, out=         1, zero=x, over=1
+               87010 a=         1, b=         1, cin=0, cout=z, op=2, out=         1, zero=1, over=1
+               87014 a=         1, b=         1, cin=0, cout=z, op=2, out=         0, zero=1, over=1
+               87015 a=         1, b=         1, cin=0, cout=z, op=2, out=         2, zero=1, over=1
+               88000 a=         1, b=         1, cin=1, cout=z, op=2, out=         2, zero=1, over=1
+               89000 a=         0, b=         0, cin=0, cout=z, op=2, out=         2, zero=1, over=1
+               89010 a=         0, b=         0, cin=0, cout=z, op=2, out=         3, zero=1, over=1
+               89011 a=         0, b=         0, cin=0, cout=z, op=2, out=         1, zero=1, over=1
+               89014 a=         0, b=         0, cin=0, cout=z, op=2, out=         0, zero=1, over=1
+               90000 a=         0, b=         0, cin=1, cout=z, op=2, out=         0, zero=1, over=1
+               91000 a=         0, b=         1, cin=0, cout=z, op=2, out=         0, zero=1, over=1
+               91010 a=         0, b=         1, cin=0, cout=z, op=2, out=         0, zero=x, over=1
+               91014 a=         0, b=         1, cin=0, cout=z, op=2, out=         1, zero=x, over=1
+               92000 a=         0, b=         1, cin=1, cout=z, op=2, out=         1, zero=x, over=1
+               93000 a=         1, b=         0, cin=0, cout=z, op=2, out=         1, zero=x, over=1
+               93010 a=         1, b=         0, cin=0, cout=z, op=2, out=         0, zero=x, over=1
+               93011 a=         1, b=         0, cin=0, cout=z, op=2, out=         2, zero=x, over=1
+               93014 a=         1, b=         0, cin=0, cout=z, op=2, out=         3, zero=x, over=1
+               93015 a=         1, b=         0, cin=0, cout=z, op=2, out=         1, zero=x, over=1
+               94000 a=         1, b=         0, cin=1, cout=z, op=2, out=         1, zero=x, over=1
+               95000 a=         1, b=         1, cin=0, cout=z, op=2, out=         1, zero=x, over=1
+               95010 a=         1, b=         1, cin=0, cout=z, op=2, out=         1, zero=1, over=1
+               95014 a=         1, b=         1, cin=0, cout=z, op=2, out=         0, zero=1, over=1
+               95015 a=         1, b=         1, cin=0, cout=z, op=2, out=         2, zero=1, over=1
+               96000 a=         1, b=         1, cin=1, cout=z, op=2, out=         2, zero=1, over=1
+               97000 a=         0, b=         0, cin=0, cout=z, op=2, out=         2, zero=1, over=1
+               97010 a=         0, b=         0, cin=0, cout=z, op=2, out=         3, zero=1, over=1
+               97011 a=         0, b=         0, cin=0, cout=z, op=2, out=         1, zero=1, over=1
+               97014 a=         0, b=         0, cin=0, cout=z, op=2, out=         0, zero=1, over=1
+               98000 a=         0, b=         0, cin=1, cout=z, op=2, out=         0, zero=1, over=1
+               99000 a=         0, b=         1, cin=0, cout=z, op=2, out=         0, zero=1, over=1
+               99010 a=         0, b=         1, cin=0, cout=z, op=2, out=         0, zero=x, over=1
+               99014 a=         0, b=         1, cin=0, cout=z, op=2, out=         1, zero=x, over=1
+              100000 a=         0, b=         1, cin=1, cout=z, op=2, out=         1, zero=x, over=1
+              101000 a=         1, b=         0, cin=0, cout=z, op=2, out=         1, zero=x, over=1
+              101010 a=         1, b=         0, cin=0, cout=z, op=2, out=         0, zero=x, over=1
+              101011 a=         1, b=         0, cin=0, cout=z, op=2, out=         2, zero=x, over=1
+              101014 a=         1, b=         0, cin=0, cout=z, op=2, out=         3, zero=x, over=1
+              101015 a=         1, b=         0, cin=0, cout=z, op=2, out=         1, zero=x, over=1
+              102000 a=         1, b=         0, cin=1, cout=z, op=2, out=         1, zero=x, over=1
+              103000 a=         1, b=         1, cin=0, cout=z, op=2, out=         1, zero=x, over=1
+              103010 a=         1, b=         1, cin=0, cout=z, op=2, out=         1, zero=1, over=1
+              103014 a=         1, b=         1, cin=0, cout=z, op=2, out=         0, zero=1, over=1
+              103015 a=         1, b=         1, cin=0, cout=z, op=2, out=         2, zero=1, over=1
+              104000 a=         1, b=         1, cin=1, cout=z, op=2, out=         2, zero=1, over=1
+              105000 a=         0, b=         0, cin=0, cout=z, op=2, out=         2, zero=1, over=1
+              105010 a=         0, b=         0, cin=0, cout=z, op=2, out=         3, zero=1, over=1
+              105011 a=         0, b=         0, cin=0, cout=z, op=2, out=         1, zero=1, over=1
+              105014 a=         0, b=         0, cin=0, cout=z, op=2, out=         0, zero=1, over=1
+              106000 a=         0, b=         0, cin=1, cout=z, op=2, out=         0, zero=1, over=1
+              107000 a=         0, b=         1, cin=0, cout=z, op=2, out=         0, zero=1, over=1
+              107010 a=         0, b=         1, cin=0, cout=z, op=2, out=         0, zero=x, over=1
+              107014 a=         0, b=         1, cin=0, cout=z, op=2, out=         1, zero=x, over=1
+              108000 a=         0, b=         1, cin=1, cout=z, op=2, out=         1, zero=x, over=1
+              109000 a=         1, b=         0, cin=0, cout=z, op=2, out=         1, zero=x, over=1
+              109010 a=         1, b=         0, cin=0, cout=z, op=2, out=         0, zero=x, over=1
+              109011 a=         1, b=         0, cin=0, cout=z, op=2, out=         2, zero=x, over=1
+              109014 a=         1, b=         0, cin=0, cout=z, op=2, out=         3, zero=x, over=1
+              109015 a=         1, b=         0, cin=0, cout=z, op=2, out=         1, zero=x, over=1
+              110000 a=         1, b=         0, cin=1, cout=z, op=2, out=         1, zero=x, over=1
+              111000 a=         1, b=         1, cin=0, cout=z, op=2, out=         1, zero=x, over=1
+              111010 a=         1, b=         1, cin=0, cout=z, op=2, out=         1, zero=1, over=1
+              111014 a=         1, b=         1, cin=0, cout=z, op=2, out=         0, zero=1, over=1
+              111015 a=         1, b=         1, cin=0, cout=z, op=2, out=         2, zero=1, over=1
+              112000 a=         1, b=         1, cin=1, cout=z, op=2, out=         2, zero=1, over=1
+              113000 a=         0, b=         0, cin=0, cout=z, op=2, out=         2, zero=1, over=1
+              113010 a=         0, b=         0, cin=0, cout=z, op=2, out=         3, zero=1, over=1
+              113011 a=         0, b=         0, cin=0, cout=z, op=2, out=         1, zero=1, over=1
+              113014 a=         0, b=         0, cin=0, cout=z, op=2, out=         0, zero=1, over=1
+              114000 a=         0, b=         0, cin=1, cout=z, op=2, out=         0, zero=1, over=1
+              115000 a=         0, b=         1, cin=0, cout=z, op=2, out=         0, zero=1, over=1
+              115010 a=         0, b=         1, cin=0, cout=z, op=2, out=         0, zero=x, over=1
+              115014 a=         0, b=         1, cin=0, cout=z, op=2, out=         1, zero=x, over=1
+              116000 a=         0, b=         1, cin=1, cout=z, op=2, out=         1, zero=x, over=1
+              117000 a=         1, b=         0, cin=0, cout=z, op=2, out=         1, zero=x, over=1
+              117010 a=         1, b=         0, cin=0, cout=z, op=2, out=         0, zero=x, over=1
+              117011 a=         1, b=         0, cin=0, cout=z, op=2, out=         2, zero=x, over=1
+              117014 a=         1, b=         0, cin=0, cout=z, op=2, out=         3, zero=x, over=1
+              117015 a=         1, b=         0, cin=0, cout=z, op=2, out=         1, zero=x, over=1
+              118000 a=         1, b=         0, cin=1, cout=z, op=2, out=         1, zero=x, over=1
+              119000 a=         1, b=         1, cin=0, cout=z, op=2, out=         1, zero=x, over=1
+              119010 a=         1, b=         1, cin=0, cout=z, op=2, out=         1, zero=1, over=1
+              119014 a=         1, b=         1, cin=0, cout=z, op=2, out=         0, zero=1, over=1
+              119015 a=         1, b=         1, cin=0, cout=z, op=2, out=         2, zero=1, over=1
+              120000 a=         1, b=         1, cin=1, cout=z, op=2, out=         2, zero=1, over=1
+              121000 a=         0, b=         0, cin=0, cout=z, op=6, out=         2, zero=1, over=1
+              121011 a=         0, b=         0, cin=0, cout=z, op=6, out=         0, zero=1, over=1
+              121016 a=         0, b=         0, cin=0, cout=z, op=6, out=4294967292, zero=1, over=1
+              121021 a=         0, b=         0, cin=0, cout=z, op=6, out=4294967288, zero=1, over=1
+              121025 a=         0, b=         0, cin=0, cout=z, op=6, out=4294967280, zero=1, over=1
+              121029 a=         0, b=         0, cin=0, cout=z, op=6, out=4294967264, zero=1, over=1
+              121033 a=         0, b=         0, cin=0, cout=z, op=6, out=4294967232, zero=1, over=1
+              121037 a=         0, b=         0, cin=0, cout=z, op=6, out=4294967168, zero=1, over=1
+              121041 a=         0, b=         0, cin=0, cout=z, op=6, out=4294967040, zero=1, over=1
+              121045 a=         0, b=         0, cin=0, cout=z, op=6, out=4294966784, zero=1, over=1
+              121049 a=         0, b=         0, cin=0, cout=z, op=6, out=4294966272, zero=1, over=1
+              121053 a=         0, b=         0, cin=0, cout=z, op=6, out=4294965248, zero=1, over=1
+              121057 a=         0, b=         0, cin=0, cout=z, op=6, out=4294963200, zero=1, over=1
+              121061 a=         0, b=         0, cin=0, cout=z, op=6, out=4294959104, zero=1, over=1
+              121065 a=         0, b=         0, cin=0, cout=z, op=6, out=4294950912, zero=1, over=1
+              121069 a=         0, b=         0, cin=0, cout=z, op=6, out=4294934528, zero=1, over=1
+              121073 a=         0, b=         0, cin=0, cout=z, op=6, out=4294901760, zero=1, over=1
+              121077 a=         0, b=         0, cin=0, cout=z, op=6, out=4294836224, zero=1, over=1
+              121081 a=         0, b=         0, cin=0, cout=z, op=6, out=4294705152, zero=1, over=1
+              121085 a=         0, b=         0, cin=0, cout=z, op=6, out=4294443008, zero=1, over=1
+              121089 a=         0, b=         0, cin=0, cout=z, op=6, out=4293918720, zero=1, over=1
+              121093 a=         0, b=         0, cin=0, cout=z, op=6, out=4292870144, zero=1, over=1
+              121097 a=         0, b=         0, cin=0, cout=z, op=6, out=4290772992, zero=1, over=1
+              121101 a=         0, b=         0, cin=0, cout=z, op=6, out=4286578688, zero=1, over=1
+              121105 a=         0, b=         0, cin=0, cout=z, op=6, out=4278190080, zero=1, over=1
+              121109 a=         0, b=         0, cin=0, cout=z, op=6, out=4261412864, zero=1, over=1
+              121113 a=         0, b=         0, cin=0, cout=z, op=6, out=4227858432, zero=1, over=1
+              121117 a=         0, b=         0, cin=0, cout=z, op=6, out=4160749568, zero=1, over=1
+              121121 a=         0, b=         0, cin=0, cout=z, op=6, out=4026531840, zero=1, over=1
+              121125 a=         0, b=         0, cin=0, cout=z, op=6, out=3758096384, zero=1, over=1
+              121129 a=         0, b=         0, cin=0, cout=z, op=6, out=3221225472, zero=1, over=1
+              121133 a=         0, b=         0, cin=0, cout=z, op=6, out=2147483648, zero=1, over=1
+              121135 a=         0, b=         0, cin=0, cout=z, op=6, out=2147483648, zero=1, over=0
+              121137 a=         0, b=         0, cin=0, cout=z, op=6, out=         0, zero=1, over=0
+              122000 a=         0, b=         0, cin=1, cout=z, op=6, out=         0, zero=1, over=0
+              123000 a=         0, b=         1, cin=0, cout=z, op=6, out=         0, zero=1, over=0
+              123010 a=         0, b=         1, cin=0, cout=z, op=6, out=         0, zero=x, over=0
+              123015 a=         0, b=         1, cin=0, cout=z, op=6, out=         1, zero=x, over=0
+              123016 a=         0, b=         1, cin=0, cout=z, op=6, out=         3, zero=x, over=0
+              123020 a=         0, b=         1, cin=0, cout=z, op=6, out=         7, zero=x, over=0
+              123024 a=         0, b=         1, cin=0, cout=z, op=6, out=        15, zero=x, over=0
+              123028 a=         0, b=         1, cin=0, cout=z, op=6, out=        31, zero=x, over=0
+              123032 a=         0, b=         1, cin=0, cout=z, op=6, out=        63, zero=x, over=0
+              123036 a=         0, b=         1, cin=0, cout=z, op=6, out=       127, zero=x, over=0
+              123040 a=         0, b=         1, cin=0, cout=z, op=6, out=       255, zero=x, over=0
+              123044 a=         0, b=         1, cin=0, cout=z, op=6, out=       511, zero=x, over=0
+              123048 a=         0, b=         1, cin=0, cout=z, op=6, out=      1023, zero=x, over=0
+              123052 a=         0, b=         1, cin=0, cout=z, op=6, out=      2047, zero=x, over=0
+              123056 a=         0, b=         1, cin=0, cout=z, op=6, out=      4095, zero=x, over=0
+              123060 a=         0, b=         1, cin=0, cout=z, op=6, out=      8191, zero=x, over=0
+              123064 a=         0, b=         1, cin=0, cout=z, op=6, out=     16383, zero=x, over=0
+              123068 a=         0, b=         1, cin=0, cout=z, op=6, out=     32767, zero=x, over=0
+              123072 a=         0, b=         1, cin=0, cout=z, op=6, out=     65535, zero=x, over=0
+              123076 a=         0, b=         1, cin=0, cout=z, op=6, out=    131071, zero=x, over=0
+              123080 a=         0, b=         1, cin=0, cout=z, op=6, out=    262143, zero=x, over=0
+              123084 a=         0, b=         1, cin=0, cout=z, op=6, out=    524287, zero=x, over=0
+              123088 a=         0, b=         1, cin=0, cout=z, op=6, out=   1048575, zero=x, over=0
+              123092 a=         0, b=         1, cin=0, cout=z, op=6, out=   2097151, zero=x, over=0
+              123096 a=         0, b=         1, cin=0, cout=z, op=6, out=   4194303, zero=x, over=0
+              123100 a=         0, b=         1, cin=0, cout=z, op=6, out=   8388607, zero=x, over=0
+              123104 a=         0, b=         1, cin=0, cout=z, op=6, out=  16777215, zero=x, over=0
+              123108 a=         0, b=         1, cin=0, cout=z, op=6, out=  33554431, zero=x, over=0
+              123112 a=         0, b=         1, cin=0, cout=z, op=6, out=  67108863, zero=x, over=0
+              123116 a=         0, b=         1, cin=0, cout=z, op=6, out= 134217727, zero=x, over=0
+              123120 a=         0, b=         1, cin=0, cout=z, op=6, out= 268435455, zero=x, over=0
+              123124 a=         0, b=         1, cin=0, cout=z, op=6, out= 536870911, zero=x, over=0
+              123128 a=         0, b=         1, cin=0, cout=z, op=6, out=1073741823, zero=x, over=0
+              123132 a=         0, b=         1, cin=0, cout=z, op=6, out=2147483647, zero=x, over=0
+              123134 a=         0, b=         1, cin=0, cout=z, op=6, out=2147483647, zero=x, over=1
+              123136 a=         0, b=         1, cin=0, cout=z, op=6, out=4294967295, zero=x, over=1
+              124000 a=         0, b=         1, cin=1, cout=z, op=6, out=4294967295, zero=x, over=1
+              125000 a=         1, b=         0, cin=0, cout=z, op=6, out=4294967295, zero=x, over=1
+              125010 a=         1, b=         0, cin=0, cout=z, op=6, out=4294967294, zero=x, over=1
+              125011 a=         1, b=         0, cin=0, cout=z, op=6, out=4294967292, zero=x, over=1
+              125015 a=         1, b=         0, cin=0, cout=z, op=6, out=4294967289, zero=x, over=1
+              125019 a=         1, b=         0, cin=0, cout=z, op=6, out=4294967281, zero=x, over=1
+              125023 a=         1, b=         0, cin=0, cout=z, op=6, out=4294967265, zero=x, over=1
+              125027 a=         1, b=         0, cin=0, cout=z, op=6, out=4294967233, zero=x, over=1
+              125031 a=         1, b=         0, cin=0, cout=z, op=6, out=4294967169, zero=x, over=1
+              125035 a=         1, b=         0, cin=0, cout=z, op=6, out=4294967041, zero=x, over=1
+              125039 a=         1, b=         0, cin=0, cout=z, op=6, out=4294966785, zero=x, over=1
+              125043 a=         1, b=         0, cin=0, cout=z, op=6, out=4294966273, zero=x, over=1
+              125047 a=         1, b=         0, cin=0, cout=z, op=6, out=4294965249, zero=x, over=1
+              125051 a=         1, b=         0, cin=0, cout=z, op=6, out=4294963201, zero=x, over=1
+              125055 a=         1, b=         0, cin=0, cout=z, op=6, out=4294959105, zero=x, over=1
+              125059 a=         1, b=         0, cin=0, cout=z, op=6, out=4294950913, zero=x, over=1
+              125063 a=         1, b=         0, cin=0, cout=z, op=6, out=4294934529, zero=x, over=1
+              125067 a=         1, b=         0, cin=0, cout=z, op=6, out=4294901761, zero=x, over=1
+              125071 a=         1, b=         0, cin=0, cout=z, op=6, out=4294836225, zero=x, over=1
+              125075 a=         1, b=         0, cin=0, cout=z, op=6, out=4294705153, zero=x, over=1
+              125079 a=         1, b=         0, cin=0, cout=z, op=6, out=4294443009, zero=x, over=1
+              125083 a=         1, b=         0, cin=0, cout=z, op=6, out=4293918721, zero=x, over=1
+              125087 a=         1, b=         0, cin=0, cout=z, op=6, out=4292870145, zero=x, over=1
+              125091 a=         1, b=         0, cin=0, cout=z, op=6, out=4290772993, zero=x, over=1
+              125095 a=         1, b=         0, cin=0, cout=z, op=6, out=4286578689, zero=x, over=1
+              125099 a=         1, b=         0, cin=0, cout=z, op=6, out=4278190081, zero=x, over=1
+              125103 a=         1, b=         0, cin=0, cout=z, op=6, out=4261412865, zero=x, over=1
+              125107 a=         1, b=         0, cin=0, cout=z, op=6, out=4227858433, zero=x, over=1
+              125111 a=         1, b=         0, cin=0, cout=z, op=6, out=4160749569, zero=x, over=1
+              125115 a=         1, b=         0, cin=0, cout=z, op=6, out=4026531841, zero=x, over=1
+              125119 a=         1, b=         0, cin=0, cout=z, op=6, out=3758096385, zero=x, over=1
+              125123 a=         1, b=         0, cin=0, cout=z, op=6, out=3221225473, zero=x, over=1
+              125127 a=         1, b=         0, cin=0, cout=z, op=6, out=2147483649, zero=x, over=1
+              125129 a=         1, b=         0, cin=0, cout=z, op=6, out=2147483649, zero=x, over=0
+              125131 a=         1, b=         0, cin=0, cout=z, op=6, out=         1, zero=x, over=0
+              126000 a=         1, b=         0, cin=1, cout=z, op=6, out=         1, zero=x, over=0
+              127000 a=         1, b=         1, cin=0, cout=z, op=6, out=         1, zero=x, over=0
+              127010 a=         1, b=         1, cin=0, cout=z, op=6, out=         1, zero=1, over=0
+              127015 a=         1, b=         1, cin=0, cout=z, op=6, out=         0, zero=1, over=0
+              128000 a=         1, b=         1, cin=1, cout=z, op=6, out=         0, zero=1, over=0
+              129000 a=         0, b=         0, cin=0, cout=z, op=6, out=         0, zero=1, over=0
+              129010 a=         0, b=         0, cin=0, cout=z, op=6, out=         1, zero=1, over=0
+              129011 a=         0, b=         0, cin=0, cout=z, op=6, out=         3, zero=1, over=0
+              129015 a=         0, b=         0, cin=0, cout=z, op=6, out=         6, zero=1, over=0
+              129016 a=         0, b=         0, cin=0, cout=z, op=6, out=         4, zero=1, over=0
+              129019 a=         0, b=         0, cin=0, cout=z, op=6, out=        12, zero=1, over=0
+              129020 a=         0, b=         0, cin=0, cout=z, op=6, out=         8, zero=1, over=0
+              129023 a=         0, b=         0, cin=0, cout=z, op=6, out=        24, zero=1, over=0
+              129024 a=         0, b=         0, cin=0, cout=z, op=6, out=        16, zero=1, over=0
+              129027 a=         0, b=         0, cin=0, cout=z, op=6, out=        48, zero=1, over=0
+              129028 a=         0, b=         0, cin=0, cout=z, op=6, out=        32, zero=1, over=0
+              129031 a=         0, b=         0, cin=0, cout=z, op=6, out=        96, zero=1, over=0
+              129032 a=         0, b=         0, cin=0, cout=z, op=6, out=        64, zero=1, over=0
+              129035 a=         0, b=         0, cin=0, cout=z, op=6, out=       192, zero=1, over=0
+              129036 a=         0, b=         0, cin=0, cout=z, op=6, out=       128, zero=1, over=0
+              129039 a=         0, b=         0, cin=0, cout=z, op=6, out=       384, zero=1, over=0
+              129040 a=         0, b=         0, cin=0, cout=z, op=6, out=       256, zero=1, over=0
+              129043 a=         0, b=         0, cin=0, cout=z, op=6, out=       768, zero=1, over=0
+              129044 a=         0, b=         0, cin=0, cout=z, op=6, out=       512, zero=1, over=0
+              129047 a=         0, b=         0, cin=0, cout=z, op=6, out=      1536, zero=1, over=0
+              129048 a=         0, b=         0, cin=0, cout=z, op=6, out=      1024, zero=1, over=0
+              129051 a=         0, b=         0, cin=0, cout=z, op=6, out=      3072, zero=1, over=0
+              129052 a=         0, b=         0, cin=0, cout=z, op=6, out=      2048, zero=1, over=0
+              129055 a=         0, b=         0, cin=0, cout=z, op=6, out=      6144, zero=1, over=0
+              129056 a=         0, b=         0, cin=0, cout=z, op=6, out=      4096, zero=1, over=0
+              129059 a=         0, b=         0, cin=0, cout=z, op=6, out=     12288, zero=1, over=0
+              129060 a=         0, b=         0, cin=0, cout=z, op=6, out=      8192, zero=1, over=0
+              129063 a=         0, b=         0, cin=0, cout=z, op=6, out=     24576, zero=1, over=0
+              129064 a=         0, b=         0, cin=0, cout=z, op=6, out=     16384, zero=1, over=0
+              129067 a=         0, b=         0, cin=0, cout=z, op=6, out=     49152, zero=1, over=0
+              129068 a=         0, b=         0, cin=0, cout=z, op=6, out=     32768, zero=1, over=0
+              129071 a=         0, b=         0, cin=0, cout=z, op=6, out=     98304, zero=1, over=0
+              129072 a=         0, b=         0, cin=0, cout=z, op=6, out=     65536, zero=1, over=0
+              129075 a=         0, b=         0, cin=0, cout=z, op=6, out=    196608, zero=1, over=0
+              129076 a=         0, b=         0, cin=0, cout=z, op=6, out=    131072, zero=1, over=0
+              129079 a=         0, b=         0, cin=0, cout=z, op=6, out=    393216, zero=1, over=0
+              129080 a=         0, b=         0, cin=0, cout=z, op=6, out=    262144, zero=1, over=0
+              129083 a=         0, b=         0, cin=0, cout=z, op=6, out=    786432, zero=1, over=0
+              129084 a=         0, b=         0, cin=0, cout=z, op=6, out=    524288, zero=1, over=0
+              129087 a=         0, b=         0, cin=0, cout=z, op=6, out=   1572864, zero=1, over=0
+              129088 a=         0, b=         0, cin=0, cout=z, op=6, out=   1048576, zero=1, over=0
+              129091 a=         0, b=         0, cin=0, cout=z, op=6, out=   3145728, zero=1, over=0
+              129092 a=         0, b=         0, cin=0, cout=z, op=6, out=   2097152, zero=1, over=0
+              129095 a=         0, b=         0, cin=0, cout=z, op=6, out=   6291456, zero=1, over=0
+              129096 a=         0, b=         0, cin=0, cout=z, op=6, out=   4194304, zero=1, over=0
+              129099 a=         0, b=         0, cin=0, cout=z, op=6, out=  12582912, zero=1, over=0
+              129100 a=         0, b=         0, cin=0, cout=z, op=6, out=   8388608, zero=1, over=0
+              129103 a=         0, b=         0, cin=0, cout=z, op=6, out=  25165824, zero=1, over=0
+              129104 a=         0, b=         0, cin=0, cout=z, op=6, out=  16777216, zero=1, over=0
+              129107 a=         0, b=         0, cin=0, cout=z, op=6, out=  50331648, zero=1, over=0
+              129108 a=         0, b=         0, cin=0, cout=z, op=6, out=  33554432, zero=1, over=0
+              129111 a=         0, b=         0, cin=0, cout=z, op=6, out= 100663296, zero=1, over=0
+              129112 a=         0, b=         0, cin=0, cout=z, op=6, out=  67108864, zero=1, over=0
+              129115 a=         0, b=         0, cin=0, cout=z, op=6, out= 201326592, zero=1, over=0
+              129116 a=         0, b=         0, cin=0, cout=z, op=6, out= 134217728, zero=1, over=0
+              129119 a=         0, b=         0, cin=0, cout=z, op=6, out= 402653184, zero=1, over=0
+              129120 a=         0, b=         0, cin=0, cout=z, op=6, out= 268435456, zero=1, over=0
+              129123 a=         0, b=         0, cin=0, cout=z, op=6, out= 805306368, zero=1, over=0
+              129124 a=         0, b=         0, cin=0, cout=z, op=6, out= 536870912, zero=1, over=0
+              129127 a=         0, b=         0, cin=0, cout=z, op=6, out=1610612736, zero=1, over=0
+              129128 a=         0, b=         0, cin=0, cout=z, op=6, out=1073741824, zero=1, over=0
+              129129 a=         0, b=         0, cin=0, cout=z, op=6, out=1073741824, zero=1, over=1
+              129131 a=         0, b=         0, cin=0, cout=z, op=6, out=3221225472, zero=1, over=1
+              129132 a=         0, b=         0, cin=0, cout=z, op=6, out=2147483648, zero=1, over=1
+              129134 a=         0, b=         0, cin=0, cout=z, op=6, out=2147483648, zero=1, over=0
+              129136 a=         0, b=         0, cin=0, cout=z, op=6, out=         0, zero=1, over=0
+              130000 a=         0, b=         0, cin=1, cout=z, op=6, out=         0, zero=1, over=0
+              131000 a=         0, b=         1, cin=0, cout=z, op=6, out=         0, zero=1, over=0
+              131010 a=         0, b=         1, cin=0, cout=z, op=6, out=         0, zero=x, over=0
+              131015 a=         0, b=         1, cin=0, cout=z, op=6, out=         1, zero=x, over=0
+              131016 a=         0, b=         1, cin=0, cout=z, op=6, out=         3, zero=x, over=0
+              131020 a=         0, b=         1, cin=0, cout=z, op=6, out=         7, zero=x, over=0
+              131024 a=         0, b=         1, cin=0, cout=z, op=6, out=        15, zero=x, over=0
+              131028 a=         0, b=         1, cin=0, cout=z, op=6, out=        31, zero=x, over=0
+              131032 a=         0, b=         1, cin=0, cout=z, op=6, out=        63, zero=x, over=0
+              131036 a=         0, b=         1, cin=0, cout=z, op=6, out=       127, zero=x, over=0
+              131040 a=         0, b=         1, cin=0, cout=z, op=6, out=       255, zero=x, over=0
+              131044 a=         0, b=         1, cin=0, cout=z, op=6, out=       511, zero=x, over=0
+              131048 a=         0, b=         1, cin=0, cout=z, op=6, out=      1023, zero=x, over=0
+              131052 a=         0, b=         1, cin=0, cout=z, op=6, out=      2047, zero=x, over=0
+              131056 a=         0, b=         1, cin=0, cout=z, op=6, out=      4095, zero=x, over=0
+              131060 a=         0, b=         1, cin=0, cout=z, op=6, out=      8191, zero=x, over=0
+              131064 a=         0, b=         1, cin=0, cout=z, op=6, out=     16383, zero=x, over=0
+              131068 a=         0, b=         1, cin=0, cout=z, op=6, out=     32767, zero=x, over=0
+              131072 a=         0, b=         1, cin=0, cout=z, op=6, out=     65535, zero=x, over=0
+              131076 a=         0, b=         1, cin=0, cout=z, op=6, out=    131071, zero=x, over=0
+              131080 a=         0, b=         1, cin=0, cout=z, op=6, out=    262143, zero=x, over=0
+              131084 a=         0, b=         1, cin=0, cout=z, op=6, out=    524287, zero=x, over=0
+              131088 a=         0, b=         1, cin=0, cout=z, op=6, out=   1048575, zero=x, over=0
+              131092 a=         0, b=         1, cin=0, cout=z, op=6, out=   2097151, zero=x, over=0
+              131096 a=         0, b=         1, cin=0, cout=z, op=6, out=   4194303, zero=x, over=0
+              131100 a=         0, b=         1, cin=0, cout=z, op=6, out=   8388607, zero=x, over=0
+              131104 a=         0, b=         1, cin=0, cout=z, op=6, out=  16777215, zero=x, over=0
+              131108 a=         0, b=         1, cin=0, cout=z, op=6, out=  33554431, zero=x, over=0
+              131112 a=         0, b=         1, cin=0, cout=z, op=6, out=  67108863, zero=x, over=0
+              131116 a=         0, b=         1, cin=0, cout=z, op=6, out= 134217727, zero=x, over=0
+              131120 a=         0, b=         1, cin=0, cout=z, op=6, out= 268435455, zero=x, over=0
+              131124 a=         0, b=         1, cin=0, cout=z, op=6, out= 536870911, zero=x, over=0
+              131128 a=         0, b=         1, cin=0, cout=z, op=6, out=1073741823, zero=x, over=0
+              131132 a=         0, b=         1, cin=0, cout=z, op=6, out=2147483647, zero=x, over=0
+              131134 a=         0, b=         1, cin=0, cout=z, op=6, out=2147483647, zero=x, over=1
+              131136 a=         0, b=         1, cin=0, cout=z, op=6, out=4294967295, zero=x, over=1
+              132000 a=         0, b=         1, cin=1, cout=z, op=6, out=4294967295, zero=x, over=1
+              133000 a=         1, b=         0, cin=0, cout=z, op=6, out=4294967295, zero=x, over=1
+              133010 a=         1, b=         0, cin=0, cout=z, op=6, out=4294967294, zero=x, over=1
+              133011 a=         1, b=         0, cin=0, cout=z, op=6, out=4294967292, zero=x, over=1
+              133015 a=         1, b=         0, cin=0, cout=z, op=6, out=4294967289, zero=x, over=1
+              133019 a=         1, b=         0, cin=0, cout=z, op=6, out=4294967281, zero=x, over=1
+              133023 a=         1, b=         0, cin=0, cout=z, op=6, out=4294967265, zero=x, over=1
+              133027 a=         1, b=         0, cin=0, cout=z, op=6, out=4294967233, zero=x, over=1
+              133031 a=         1, b=         0, cin=0, cout=z, op=6, out=4294967169, zero=x, over=1
+              133035 a=         1, b=         0, cin=0, cout=z, op=6, out=4294967041, zero=x, over=1
+              133039 a=         1, b=         0, cin=0, cout=z, op=6, out=4294966785, zero=x, over=1
+              133043 a=         1, b=         0, cin=0, cout=z, op=6, out=4294966273, zero=x, over=1
+              133047 a=         1, b=         0, cin=0, cout=z, op=6, out=4294965249, zero=x, over=1
+              133051 a=         1, b=         0, cin=0, cout=z, op=6, out=4294963201, zero=x, over=1
+              133055 a=         1, b=         0, cin=0, cout=z, op=6, out=4294959105, zero=x, over=1
+              133059 a=         1, b=         0, cin=0, cout=z, op=6, out=4294950913, zero=x, over=1
+              133063 a=         1, b=         0, cin=0, cout=z, op=6, out=4294934529, zero=x, over=1
+              133067 a=         1, b=         0, cin=0, cout=z, op=6, out=4294901761, zero=x, over=1
+              133071 a=         1, b=         0, cin=0, cout=z, op=6, out=4294836225, zero=x, over=1
+              133075 a=         1, b=         0, cin=0, cout=z, op=6, out=4294705153, zero=x, over=1
+              133079 a=         1, b=         0, cin=0, cout=z, op=6, out=4294443009, zero=x, over=1
+              133083 a=         1, b=         0, cin=0, cout=z, op=6, out=4293918721, zero=x, over=1
+              133087 a=         1, b=         0, cin=0, cout=z, op=6, out=4292870145, zero=x, over=1
+              133091 a=         1, b=         0, cin=0, cout=z, op=6, out=4290772993, zero=x, over=1
+              133095 a=         1, b=         0, cin=0, cout=z, op=6, out=4286578689, zero=x, over=1
+              133099 a=         1, b=         0, cin=0, cout=z, op=6, out=4278190081, zero=x, over=1
+              133103 a=         1, b=         0, cin=0, cout=z, op=6, out=4261412865, zero=x, over=1
+              133107 a=         1, b=         0, cin=0, cout=z, op=6, out=4227858433, zero=x, over=1
+              133111 a=         1, b=         0, cin=0, cout=z, op=6, out=4160749569, zero=x, over=1
+              133115 a=         1, b=         0, cin=0, cout=z, op=6, out=4026531841, zero=x, over=1
+              133119 a=         1, b=         0, cin=0, cout=z, op=6, out=3758096385, zero=x, over=1
+              133123 a=         1, b=         0, cin=0, cout=z, op=6, out=3221225473, zero=x, over=1
+              133127 a=         1, b=         0, cin=0, cout=z, op=6, out=2147483649, zero=x, over=1
+              133129 a=         1, b=         0, cin=0, cout=z, op=6, out=2147483649, zero=x, over=0
+              133131 a=         1, b=         0, cin=0, cout=z, op=6, out=         1, zero=x, over=0
+              134000 a=         1, b=         0, cin=1, cout=z, op=6, out=         1, zero=x, over=0
+              135000 a=         1, b=         1, cin=0, cout=z, op=6, out=         1, zero=x, over=0
+              135010 a=         1, b=         1, cin=0, cout=z, op=6, out=         1, zero=1, over=0
+              135015 a=         1, b=         1, cin=0, cout=z, op=6, out=         0, zero=1, over=0
+              136000 a=         1, b=         1, cin=1, cout=z, op=6, out=         0, zero=1, over=0
+              137000 a=         0, b=         0, cin=0, cout=z, op=6, out=         0, zero=1, over=0
+              137010 a=         0, b=         0, cin=0, cout=z, op=6, out=         1, zero=1, over=0
+              137011 a=         0, b=         0, cin=0, cout=z, op=6, out=         3, zero=1, over=0
+              137015 a=         0, b=         0, cin=0, cout=z, op=6, out=         6, zero=1, over=0
+              137016 a=         0, b=         0, cin=0, cout=z, op=6, out=         4, zero=1, over=0
+              137019 a=         0, b=         0, cin=0, cout=z, op=6, out=        12, zero=1, over=0
+              137020 a=         0, b=         0, cin=0, cout=z, op=6, out=         8, zero=1, over=0
+              137023 a=         0, b=         0, cin=0, cout=z, op=6, out=        24, zero=1, over=0
+              137024 a=         0, b=         0, cin=0, cout=z, op=6, out=        16, zero=1, over=0
+              137027 a=         0, b=         0, cin=0, cout=z, op=6, out=        48, zero=1, over=0
+              137028 a=         0, b=         0, cin=0, cout=z, op=6, out=        32, zero=1, over=0
+              137031 a=         0, b=         0, cin=0, cout=z, op=6, out=        96, zero=1, over=0
+              137032 a=         0, b=         0, cin=0, cout=z, op=6, out=        64, zero=1, over=0
+              137035 a=         0, b=         0, cin=0, cout=z, op=6, out=       192, zero=1, over=0
+              137036 a=         0, b=         0, cin=0, cout=z, op=6, out=       128, zero=1, over=0
+              137039 a=         0, b=         0, cin=0, cout=z, op=6, out=       384, zero=1, over=0
+              137040 a=         0, b=         0, cin=0, cout=z, op=6, out=       256, zero=1, over=0
+              137043 a=         0, b=         0, cin=0, cout=z, op=6, out=       768, zero=1, over=0
+              137044 a=         0, b=         0, cin=0, cout=z, op=6, out=       512, zero=1, over=0
+              137047 a=         0, b=         0, cin=0, cout=z, op=6, out=      1536, zero=1, over=0
+              137048 a=         0, b=         0, cin=0, cout=z, op=6, out=      1024, zero=1, over=0
+              137051 a=         0, b=         0, cin=0, cout=z, op=6, out=      3072, zero=1, over=0
+              137052 a=         0, b=         0, cin=0, cout=z, op=6, out=      2048, zero=1, over=0
+              137055 a=         0, b=         0, cin=0, cout=z, op=6, out=      6144, zero=1, over=0
+              137056 a=         0, b=         0, cin=0, cout=z, op=6, out=      4096, zero=1, over=0
+              137059 a=         0, b=         0, cin=0, cout=z, op=6, out=     12288, zero=1, over=0
+              137060 a=         0, b=         0, cin=0, cout=z, op=6, out=      8192, zero=1, over=0
+              137063 a=         0, b=         0, cin=0, cout=z, op=6, out=     24576, zero=1, over=0
+              137064 a=         0, b=         0, cin=0, cout=z, op=6, out=     16384, zero=1, over=0
+              137067 a=         0, b=         0, cin=0, cout=z, op=6, out=     49152, zero=1, over=0
+              137068 a=         0, b=         0, cin=0, cout=z, op=6, out=     32768, zero=1, over=0
+              137071 a=         0, b=         0, cin=0, cout=z, op=6, out=     98304, zero=1, over=0
+              137072 a=         0, b=         0, cin=0, cout=z, op=6, out=     65536, zero=1, over=0
+              137075 a=         0, b=         0, cin=0, cout=z, op=6, out=    196608, zero=1, over=0
+              137076 a=         0, b=         0, cin=0, cout=z, op=6, out=    131072, zero=1, over=0
+              137079 a=         0, b=         0, cin=0, cout=z, op=6, out=    393216, zero=1, over=0
+              137080 a=         0, b=         0, cin=0, cout=z, op=6, out=    262144, zero=1, over=0
+              137083 a=         0, b=         0, cin=0, cout=z, op=6, out=    786432, zero=1, over=0
+              137084 a=         0, b=         0, cin=0, cout=z, op=6, out=    524288, zero=1, over=0
+              137087 a=         0, b=         0, cin=0, cout=z, op=6, out=   1572864, zero=1, over=0
+              137088 a=         0, b=         0, cin=0, cout=z, op=6, out=   1048576, zero=1, over=0
+              137091 a=         0, b=         0, cin=0, cout=z, op=6, out=   3145728, zero=1, over=0
+              137092 a=         0, b=         0, cin=0, cout=z, op=6, out=   2097152, zero=1, over=0
+              137095 a=         0, b=         0, cin=0, cout=z, op=6, out=   6291456, zero=1, over=0
+              137096 a=         0, b=         0, cin=0, cout=z, op=6, out=   4194304, zero=1, over=0
+              137099 a=         0, b=         0, cin=0, cout=z, op=6, out=  12582912, zero=1, over=0
+              137100 a=         0, b=         0, cin=0, cout=z, op=6, out=   8388608, zero=1, over=0
+              137103 a=         0, b=         0, cin=0, cout=z, op=6, out=  25165824, zero=1, over=0
+              137104 a=         0, b=         0, cin=0, cout=z, op=6, out=  16777216, zero=1, over=0
+              137107 a=         0, b=         0, cin=0, cout=z, op=6, out=  50331648, zero=1, over=0
+              137108 a=         0, b=         0, cin=0, cout=z, op=6, out=  33554432, zero=1, over=0
+              137111 a=         0, b=         0, cin=0, cout=z, op=6, out= 100663296, zero=1, over=0
+              137112 a=         0, b=         0, cin=0, cout=z, op=6, out=  67108864, zero=1, over=0
+              137115 a=         0, b=         0, cin=0, cout=z, op=6, out= 201326592, zero=1, over=0
+              137116 a=         0, b=         0, cin=0, cout=z, op=6, out= 134217728, zero=1, over=0
+              137119 a=         0, b=         0, cin=0, cout=z, op=6, out= 402653184, zero=1, over=0
+              137120 a=         0, b=         0, cin=0, cout=z, op=6, out= 268435456, zero=1, over=0
+              137123 a=         0, b=         0, cin=0, cout=z, op=6, out= 805306368, zero=1, over=0
+              137124 a=         0, b=         0, cin=0, cout=z, op=6, out= 536870912, zero=1, over=0
+              137127 a=         0, b=         0, cin=0, cout=z, op=6, out=1610612736, zero=1, over=0
+              137128 a=         0, b=         0, cin=0, cout=z, op=6, out=1073741824, zero=1, over=0
+              137129 a=         0, b=         0, cin=0, cout=z, op=6, out=1073741824, zero=1, over=1
+              137131 a=         0, b=         0, cin=0, cout=z, op=6, out=3221225472, zero=1, over=1
+              137132 a=         0, b=         0, cin=0, cout=z, op=6, out=2147483648, zero=1, over=1
+              137134 a=         0, b=         0, cin=0, cout=z, op=6, out=2147483648, zero=1, over=0
+              137136 a=         0, b=         0, cin=0, cout=z, op=6, out=         0, zero=1, over=0
+              138000 a=         0, b=         0, cin=1, cout=z, op=6, out=         0, zero=1, over=0
+              139000 a=         0, b=         1, cin=0, cout=z, op=6, out=         0, zero=1, over=0
+              139010 a=         0, b=         1, cin=0, cout=z, op=6, out=         0, zero=x, over=0
+              139015 a=         0, b=         1, cin=0, cout=z, op=6, out=         1, zero=x, over=0
+              139016 a=         0, b=         1, cin=0, cout=z, op=6, out=         3, zero=x, over=0
+              139020 a=         0, b=         1, cin=0, cout=z, op=6, out=         7, zero=x, over=0
+              139024 a=         0, b=         1, cin=0, cout=z, op=6, out=        15, zero=x, over=0
+              139028 a=         0, b=         1, cin=0, cout=z, op=6, out=        31, zero=x, over=0
+              139032 a=         0, b=         1, cin=0, cout=z, op=6, out=        63, zero=x, over=0
+              139036 a=         0, b=         1, cin=0, cout=z, op=6, out=       127, zero=x, over=0
+              139040 a=         0, b=         1, cin=0, cout=z, op=6, out=       255, zero=x, over=0
+              139044 a=         0, b=         1, cin=0, cout=z, op=6, out=       511, zero=x, over=0
+              139048 a=         0, b=         1, cin=0, cout=z, op=6, out=      1023, zero=x, over=0
+              139052 a=         0, b=         1, cin=0, cout=z, op=6, out=      2047, zero=x, over=0
+              139056 a=         0, b=         1, cin=0, cout=z, op=6, out=      4095, zero=x, over=0
+              139060 a=         0, b=         1, cin=0, cout=z, op=6, out=      8191, zero=x, over=0
+              139064 a=         0, b=         1, cin=0, cout=z, op=6, out=     16383, zero=x, over=0
+              139068 a=         0, b=         1, cin=0, cout=z, op=6, out=     32767, zero=x, over=0
+              139072 a=         0, b=         1, cin=0, cout=z, op=6, out=     65535, zero=x, over=0
+              139076 a=         0, b=         1, cin=0, cout=z, op=6, out=    131071, zero=x, over=0
+              139080 a=         0, b=         1, cin=0, cout=z, op=6, out=    262143, zero=x, over=0
+              139084 a=         0, b=         1, cin=0, cout=z, op=6, out=    524287, zero=x, over=0
+              139088 a=         0, b=         1, cin=0, cout=z, op=6, out=   1048575, zero=x, over=0
+              139092 a=         0, b=         1, cin=0, cout=z, op=6, out=   2097151, zero=x, over=0
+              139096 a=         0, b=         1, cin=0, cout=z, op=6, out=   4194303, zero=x, over=0
+              139100 a=         0, b=         1, cin=0, cout=z, op=6, out=   8388607, zero=x, over=0
+              139104 a=         0, b=         1, cin=0, cout=z, op=6, out=  16777215, zero=x, over=0
+              139108 a=         0, b=         1, cin=0, cout=z, op=6, out=  33554431, zero=x, over=0
+              139112 a=         0, b=         1, cin=0, cout=z, op=6, out=  67108863, zero=x, over=0
+              139116 a=         0, b=         1, cin=0, cout=z, op=6, out= 134217727, zero=x, over=0
+              139120 a=         0, b=         1, cin=0, cout=z, op=6, out= 268435455, zero=x, over=0
+              139124 a=         0, b=         1, cin=0, cout=z, op=6, out= 536870911, zero=x, over=0
+              139128 a=         0, b=         1, cin=0, cout=z, op=6, out=1073741823, zero=x, over=0
+              139132 a=         0, b=         1, cin=0, cout=z, op=6, out=2147483647, zero=x, over=0
+              139134 a=         0, b=         1, cin=0, cout=z, op=6, out=2147483647, zero=x, over=1
+              139136 a=         0, b=         1, cin=0, cout=z, op=6, out=4294967295, zero=x, over=1
+              140000 a=         0, b=         1, cin=1, cout=z, op=6, out=4294967295, zero=x, over=1
+              141000 a=         1, b=         0, cin=0, cout=z, op=6, out=4294967295, zero=x, over=1
+              141010 a=         1, b=         0, cin=0, cout=z, op=6, out=4294967294, zero=x, over=1
+              141011 a=         1, b=         0, cin=0, cout=z, op=6, out=4294967292, zero=x, over=1
+              141015 a=         1, b=         0, cin=0, cout=z, op=6, out=4294967289, zero=x, over=1
+              141019 a=         1, b=         0, cin=0, cout=z, op=6, out=4294967281, zero=x, over=1
+              141023 a=         1, b=         0, cin=0, cout=z, op=6, out=4294967265, zero=x, over=1
+              141027 a=         1, b=         0, cin=0, cout=z, op=6, out=4294967233, zero=x, over=1
+              141031 a=         1, b=         0, cin=0, cout=z, op=6, out=4294967169, zero=x, over=1
+              141035 a=         1, b=         0, cin=0, cout=z, op=6, out=4294967041, zero=x, over=1
+              141039 a=         1, b=         0, cin=0, cout=z, op=6, out=4294966785, zero=x, over=1
+              141043 a=         1, b=         0, cin=0, cout=z, op=6, out=4294966273, zero=x, over=1
+              141047 a=         1, b=         0, cin=0, cout=z, op=6, out=4294965249, zero=x, over=1
+              141051 a=         1, b=         0, cin=0, cout=z, op=6, out=4294963201, zero=x, over=1
+              141055 a=         1, b=         0, cin=0, cout=z, op=6, out=4294959105, zero=x, over=1
+              141059 a=         1, b=         0, cin=0, cout=z, op=6, out=4294950913, zero=x, over=1
+              141063 a=         1, b=         0, cin=0, cout=z, op=6, out=4294934529, zero=x, over=1
+              141067 a=         1, b=         0, cin=0, cout=z, op=6, out=4294901761, zero=x, over=1
+              141071 a=         1, b=         0, cin=0, cout=z, op=6, out=4294836225, zero=x, over=1
+              141075 a=         1, b=         0, cin=0, cout=z, op=6, out=4294705153, zero=x, over=1
+              141079 a=         1, b=         0, cin=0, cout=z, op=6, out=4294443009, zero=x, over=1
+              141083 a=         1, b=         0, cin=0, cout=z, op=6, out=4293918721, zero=x, over=1
+              141087 a=         1, b=         0, cin=0, cout=z, op=6, out=4292870145, zero=x, over=1
+              141091 a=         1, b=         0, cin=0, cout=z, op=6, out=4290772993, zero=x, over=1
+              141095 a=         1, b=         0, cin=0, cout=z, op=6, out=4286578689, zero=x, over=1
+              141099 a=         1, b=         0, cin=0, cout=z, op=6, out=4278190081, zero=x, over=1
+              141103 a=         1, b=         0, cin=0, cout=z, op=6, out=4261412865, zero=x, over=1
+              141107 a=         1, b=         0, cin=0, cout=z, op=6, out=4227858433, zero=x, over=1
+              141111 a=         1, b=         0, cin=0, cout=z, op=6, out=4160749569, zero=x, over=1
+              141115 a=         1, b=         0, cin=0, cout=z, op=6, out=4026531841, zero=x, over=1
+              141119 a=         1, b=         0, cin=0, cout=z, op=6, out=3758096385, zero=x, over=1
+              141123 a=         1, b=         0, cin=0, cout=z, op=6, out=3221225473, zero=x, over=1
+              141127 a=         1, b=         0, cin=0, cout=z, op=6, out=2147483649, zero=x, over=1
+              141129 a=         1, b=         0, cin=0, cout=z, op=6, out=2147483649, zero=x, over=0
+              141131 a=         1, b=         0, cin=0, cout=z, op=6, out=         1, zero=x, over=0
+              142000 a=         1, b=         0, cin=1, cout=z, op=6, out=         1, zero=x, over=0
+              143000 a=         1, b=         1, cin=0, cout=z, op=6, out=         1, zero=x, over=0
+              143010 a=         1, b=         1, cin=0, cout=z, op=6, out=         1, zero=1, over=0
+              143015 a=         1, b=         1, cin=0, cout=z, op=6, out=         0, zero=1, over=0
+              144000 a=         1, b=         1, cin=1, cout=z, op=6, out=         0, zero=1, over=0
+              145000 a=         0, b=         0, cin=0, cout=z, op=6, out=         0, zero=1, over=0
+              145010 a=         0, b=         0, cin=0, cout=z, op=6, out=         1, zero=1, over=0
+              145011 a=         0, b=         0, cin=0, cout=z, op=6, out=         3, zero=1, over=0
+              145015 a=         0, b=         0, cin=0, cout=z, op=6, out=         6, zero=1, over=0
+              145016 a=         0, b=         0, cin=0, cout=z, op=6, out=         4, zero=1, over=0
+              145019 a=         0, b=         0, cin=0, cout=z, op=6, out=        12, zero=1, over=0
+              145020 a=         0, b=         0, cin=0, cout=z, op=6, out=         8, zero=1, over=0
+              145023 a=         0, b=         0, cin=0, cout=z, op=6, out=        24, zero=1, over=0
+              145024 a=         0, b=         0, cin=0, cout=z, op=6, out=        16, zero=1, over=0
+              145027 a=         0, b=         0, cin=0, cout=z, op=6, out=        48, zero=1, over=0
+              145028 a=         0, b=         0, cin=0, cout=z, op=6, out=        32, zero=1, over=0
+              145031 a=         0, b=         0, cin=0, cout=z, op=6, out=        96, zero=1, over=0
+              145032 a=         0, b=         0, cin=0, cout=z, op=6, out=        64, zero=1, over=0
+              145035 a=         0, b=         0, cin=0, cout=z, op=6, out=       192, zero=1, over=0
+              145036 a=         0, b=         0, cin=0, cout=z, op=6, out=       128, zero=1, over=0
+              145039 a=         0, b=         0, cin=0, cout=z, op=6, out=       384, zero=1, over=0
+              145040 a=         0, b=         0, cin=0, cout=z, op=6, out=       256, zero=1, over=0
+              145043 a=         0, b=         0, cin=0, cout=z, op=6, out=       768, zero=1, over=0
+              145044 a=         0, b=         0, cin=0, cout=z, op=6, out=       512, zero=1, over=0
+              145047 a=         0, b=         0, cin=0, cout=z, op=6, out=      1536, zero=1, over=0
+              145048 a=         0, b=         0, cin=0, cout=z, op=6, out=      1024, zero=1, over=0
+              145051 a=         0, b=         0, cin=0, cout=z, op=6, out=      3072, zero=1, over=0
+              145052 a=         0, b=         0, cin=0, cout=z, op=6, out=      2048, zero=1, over=0
+              145055 a=         0, b=         0, cin=0, cout=z, op=6, out=      6144, zero=1, over=0
+              145056 a=         0, b=         0, cin=0, cout=z, op=6, out=      4096, zero=1, over=0
+              145059 a=         0, b=         0, cin=0, cout=z, op=6, out=     12288, zero=1, over=0
+              145060 a=         0, b=         0, cin=0, cout=z, op=6, out=      8192, zero=1, over=0
+              145063 a=         0, b=         0, cin=0, cout=z, op=6, out=     24576, zero=1, over=0
+              145064 a=         0, b=         0, cin=0, cout=z, op=6, out=     16384, zero=1, over=0
+              145067 a=         0, b=         0, cin=0, cout=z, op=6, out=     49152, zero=1, over=0
+              145068 a=         0, b=         0, cin=0, cout=z, op=6, out=     32768, zero=1, over=0
+              145071 a=         0, b=         0, cin=0, cout=z, op=6, out=     98304, zero=1, over=0
+              145072 a=         0, b=         0, cin=0, cout=z, op=6, out=     65536, zero=1, over=0
+              145075 a=         0, b=         0, cin=0, cout=z, op=6, out=    196608, zero=1, over=0
+              145076 a=         0, b=         0, cin=0, cout=z, op=6, out=    131072, zero=1, over=0
+              145079 a=         0, b=         0, cin=0, cout=z, op=6, out=    393216, zero=1, over=0
+              145080 a=         0, b=         0, cin=0, cout=z, op=6, out=    262144, zero=1, over=0
+              145083 a=         0, b=         0, cin=0, cout=z, op=6, out=    786432, zero=1, over=0
+              145084 a=         0, b=         0, cin=0, cout=z, op=6, out=    524288, zero=1, over=0
+              145087 a=         0, b=         0, cin=0, cout=z, op=6, out=   1572864, zero=1, over=0
+              145088 a=         0, b=         0, cin=0, cout=z, op=6, out=   1048576, zero=1, over=0
+              145091 a=         0, b=         0, cin=0, cout=z, op=6, out=   3145728, zero=1, over=0
+              145092 a=         0, b=         0, cin=0, cout=z, op=6, out=   2097152, zero=1, over=0
+              145095 a=         0, b=         0, cin=0, cout=z, op=6, out=   6291456, zero=1, over=0
+              145096 a=         0, b=         0, cin=0, cout=z, op=6, out=   4194304, zero=1, over=0
+              145099 a=         0, b=         0, cin=0, cout=z, op=6, out=  12582912, zero=1, over=0
+              145100 a=         0, b=         0, cin=0, cout=z, op=6, out=   8388608, zero=1, over=0
+              145103 a=         0, b=         0, cin=0, cout=z, op=6, out=  25165824, zero=1, over=0
+              145104 a=         0, b=         0, cin=0, cout=z, op=6, out=  16777216, zero=1, over=0
+              145107 a=         0, b=         0, cin=0, cout=z, op=6, out=  50331648, zero=1, over=0
+              145108 a=         0, b=         0, cin=0, cout=z, op=6, out=  33554432, zero=1, over=0
+              145111 a=         0, b=         0, cin=0, cout=z, op=6, out= 100663296, zero=1, over=0
+              145112 a=         0, b=         0, cin=0, cout=z, op=6, out=  67108864, zero=1, over=0
+              145115 a=         0, b=         0, cin=0, cout=z, op=6, out= 201326592, zero=1, over=0
+              145116 a=         0, b=         0, cin=0, cout=z, op=6, out= 134217728, zero=1, over=0
+              145119 a=         0, b=         0, cin=0, cout=z, op=6, out= 402653184, zero=1, over=0
+              145120 a=         0, b=         0, cin=0, cout=z, op=6, out= 268435456, zero=1, over=0
+              145123 a=         0, b=         0, cin=0, cout=z, op=6, out= 805306368, zero=1, over=0
+              145124 a=         0, b=         0, cin=0, cout=z, op=6, out= 536870912, zero=1, over=0
+              145127 a=         0, b=         0, cin=0, cout=z, op=6, out=1610612736, zero=1, over=0
+              145128 a=         0, b=         0, cin=0, cout=z, op=6, out=1073741824, zero=1, over=0
+              145129 a=         0, b=         0, cin=0, cout=z, op=6, out=1073741824, zero=1, over=1
+              145131 a=         0, b=         0, cin=0, cout=z, op=6, out=3221225472, zero=1, over=1
+              145132 a=         0, b=         0, cin=0, cout=z, op=6, out=2147483648, zero=1, over=1
+              145134 a=         0, b=         0, cin=0, cout=z, op=6, out=2147483648, zero=1, over=0
+              145136 a=         0, b=         0, cin=0, cout=z, op=6, out=         0, zero=1, over=0
+              146000 a=         0, b=         0, cin=1, cout=z, op=6, out=         0, zero=1, over=0
+              147000 a=         0, b=         1, cin=0, cout=z, op=6, out=         0, zero=1, over=0
+              147010 a=         0, b=         1, cin=0, cout=z, op=6, out=         0, zero=x, over=0
+              147015 a=         0, b=         1, cin=0, cout=z, op=6, out=         1, zero=x, over=0
+              147016 a=         0, b=         1, cin=0, cout=z, op=6, out=         3, zero=x, over=0
+              147020 a=         0, b=         1, cin=0, cout=z, op=6, out=         7, zero=x, over=0
+              147024 a=         0, b=         1, cin=0, cout=z, op=6, out=        15, zero=x, over=0
+              147028 a=         0, b=         1, cin=0, cout=z, op=6, out=        31, zero=x, over=0
+              147032 a=         0, b=         1, cin=0, cout=z, op=6, out=        63, zero=x, over=0
+              147036 a=         0, b=         1, cin=0, cout=z, op=6, out=       127, zero=x, over=0
+              147040 a=         0, b=         1, cin=0, cout=z, op=6, out=       255, zero=x, over=0
+              147044 a=         0, b=         1, cin=0, cout=z, op=6, out=       511, zero=x, over=0
+              147048 a=         0, b=         1, cin=0, cout=z, op=6, out=      1023, zero=x, over=0
+              147052 a=         0, b=         1, cin=0, cout=z, op=6, out=      2047, zero=x, over=0
+              147056 a=         0, b=         1, cin=0, cout=z, op=6, out=      4095, zero=x, over=0
+              147060 a=         0, b=         1, cin=0, cout=z, op=6, out=      8191, zero=x, over=0
+              147064 a=         0, b=         1, cin=0, cout=z, op=6, out=     16383, zero=x, over=0
+              147068 a=         0, b=         1, cin=0, cout=z, op=6, out=     32767, zero=x, over=0
+              147072 a=         0, b=         1, cin=0, cout=z, op=6, out=     65535, zero=x, over=0
+              147076 a=         0, b=         1, cin=0, cout=z, op=6, out=    131071, zero=x, over=0
+              147080 a=         0, b=         1, cin=0, cout=z, op=6, out=    262143, zero=x, over=0
+              147084 a=         0, b=         1, cin=0, cout=z, op=6, out=    524287, zero=x, over=0
+              147088 a=         0, b=         1, cin=0, cout=z, op=6, out=   1048575, zero=x, over=0
+              147092 a=         0, b=         1, cin=0, cout=z, op=6, out=   2097151, zero=x, over=0
+              147096 a=         0, b=         1, cin=0, cout=z, op=6, out=   4194303, zero=x, over=0
+              147100 a=         0, b=         1, cin=0, cout=z, op=6, out=   8388607, zero=x, over=0
+              147104 a=         0, b=         1, cin=0, cout=z, op=6, out=  16777215, zero=x, over=0
+              147108 a=         0, b=         1, cin=0, cout=z, op=6, out=  33554431, zero=x, over=0
+              147112 a=         0, b=         1, cin=0, cout=z, op=6, out=  67108863, zero=x, over=0
+              147116 a=         0, b=         1, cin=0, cout=z, op=6, out= 134217727, zero=x, over=0
+              147120 a=         0, b=         1, cin=0, cout=z, op=6, out= 268435455, zero=x, over=0
+              147124 a=         0, b=         1, cin=0, cout=z, op=6, out= 536870911, zero=x, over=0
+              147128 a=         0, b=         1, cin=0, cout=z, op=6, out=1073741823, zero=x, over=0
+              147132 a=         0, b=         1, cin=0, cout=z, op=6, out=2147483647, zero=x, over=0
+              147134 a=         0, b=         1, cin=0, cout=z, op=6, out=2147483647, zero=x, over=1
+              147136 a=         0, b=         1, cin=0, cout=z, op=6, out=4294967295, zero=x, over=1
+              148000 a=         0, b=         1, cin=1, cout=z, op=6, out=4294967295, zero=x, over=1
+              149000 a=         1, b=         0, cin=0, cout=z, op=6, out=4294967295, zero=x, over=1
+              149010 a=         1, b=         0, cin=0, cout=z, op=6, out=4294967294, zero=x, over=1
+              149011 a=         1, b=         0, cin=0, cout=z, op=6, out=4294967292, zero=x, over=1
+              149015 a=         1, b=         0, cin=0, cout=z, op=6, out=4294967289, zero=x, over=1
+              149019 a=         1, b=         0, cin=0, cout=z, op=6, out=4294967281, zero=x, over=1
+              149023 a=         1, b=         0, cin=0, cout=z, op=6, out=4294967265, zero=x, over=1
+              149027 a=         1, b=         0, cin=0, cout=z, op=6, out=4294967233, zero=x, over=1
+              149031 a=         1, b=         0, cin=0, cout=z, op=6, out=4294967169, zero=x, over=1
+              149035 a=         1, b=         0, cin=0, cout=z, op=6, out=4294967041, zero=x, over=1
+              149039 a=         1, b=         0, cin=0, cout=z, op=6, out=4294966785, zero=x, over=1
+              149043 a=         1, b=         0, cin=0, cout=z, op=6, out=4294966273, zero=x, over=1
+              149047 a=         1, b=         0, cin=0, cout=z, op=6, out=4294965249, zero=x, over=1
+              149051 a=         1, b=         0, cin=0, cout=z, op=6, out=4294963201, zero=x, over=1
+              149055 a=         1, b=         0, cin=0, cout=z, op=6, out=4294959105, zero=x, over=1
+              149059 a=         1, b=         0, cin=0, cout=z, op=6, out=4294950913, zero=x, over=1
+              149063 a=         1, b=         0, cin=0, cout=z, op=6, out=4294934529, zero=x, over=1
+              149067 a=         1, b=         0, cin=0, cout=z, op=6, out=4294901761, zero=x, over=1
+              149071 a=         1, b=         0, cin=0, cout=z, op=6, out=4294836225, zero=x, over=1
+              149075 a=         1, b=         0, cin=0, cout=z, op=6, out=4294705153, zero=x, over=1
+              149079 a=         1, b=         0, cin=0, cout=z, op=6, out=4294443009, zero=x, over=1
+              149083 a=         1, b=         0, cin=0, cout=z, op=6, out=4293918721, zero=x, over=1
+              149087 a=         1, b=         0, cin=0, cout=z, op=6, out=4292870145, zero=x, over=1
+              149091 a=         1, b=         0, cin=0, cout=z, op=6, out=4290772993, zero=x, over=1
+              149095 a=         1, b=         0, cin=0, cout=z, op=6, out=4286578689, zero=x, over=1
+              149099 a=         1, b=         0, cin=0, cout=z, op=6, out=4278190081, zero=x, over=1
+              149103 a=         1, b=         0, cin=0, cout=z, op=6, out=4261412865, zero=x, over=1
+              149107 a=         1, b=         0, cin=0, cout=z, op=6, out=4227858433, zero=x, over=1
+              149111 a=         1, b=         0, cin=0, cout=z, op=6, out=4160749569, zero=x, over=1
+              149115 a=         1, b=         0, cin=0, cout=z, op=6, out=4026531841, zero=x, over=1
+              149119 a=         1, b=         0, cin=0, cout=z, op=6, out=3758096385, zero=x, over=1
+              149123 a=         1, b=         0, cin=0, cout=z, op=6, out=3221225473, zero=x, over=1
+              149127 a=         1, b=         0, cin=0, cout=z, op=6, out=2147483649, zero=x, over=1
+              149129 a=         1, b=         0, cin=0, cout=z, op=6, out=2147483649, zero=x, over=0
+              149131 a=         1, b=         0, cin=0, cout=z, op=6, out=         1, zero=x, over=0
+              150000 a=         1, b=         0, cin=1, cout=z, op=6, out=         1, zero=x, over=0
+              151000 a=         1, b=         1, cin=0, cout=z, op=6, out=         1, zero=x, over=0
+              151010 a=         1, b=         1, cin=0, cout=z, op=6, out=         1, zero=1, over=0
+              151015 a=         1, b=         1, cin=0, cout=z, op=6, out=         0, zero=1, over=0
+              152000 a=         1, b=         1, cin=1, cout=z, op=6, out=         0, zero=1, over=0
+              153000 a=         0, b=         0, cin=0, cout=z, op=6, out=         0, zero=1, over=0
+              153010 a=         0, b=         0, cin=0, cout=z, op=6, out=         1, zero=1, over=0
+              153011 a=         0, b=         0, cin=0, cout=z, op=6, out=         3, zero=1, over=0
+              153015 a=         0, b=         0, cin=0, cout=z, op=6, out=         6, zero=1, over=0
+              153016 a=         0, b=         0, cin=0, cout=z, op=6, out=         4, zero=1, over=0
+              153019 a=         0, b=         0, cin=0, cout=z, op=6, out=        12, zero=1, over=0
+              153020 a=         0, b=         0, cin=0, cout=z, op=6, out=         8, zero=1, over=0
+              153023 a=         0, b=         0, cin=0, cout=z, op=6, out=        24, zero=1, over=0
+              153024 a=         0, b=         0, cin=0, cout=z, op=6, out=        16, zero=1, over=0
+              153027 a=         0, b=         0, cin=0, cout=z, op=6, out=        48, zero=1, over=0
+              153028 a=         0, b=         0, cin=0, cout=z, op=6, out=        32, zero=1, over=0
+              153031 a=         0, b=         0, cin=0, cout=z, op=6, out=        96, zero=1, over=0
+              153032 a=         0, b=         0, cin=0, cout=z, op=6, out=        64, zero=1, over=0
+              153035 a=         0, b=         0, cin=0, cout=z, op=6, out=       192, zero=1, over=0
+              153036 a=         0, b=         0, cin=0, cout=z, op=6, out=       128, zero=1, over=0
+              153039 a=         0, b=         0, cin=0, cout=z, op=6, out=       384, zero=1, over=0
+              153040 a=         0, b=         0, cin=0, cout=z, op=6, out=       256, zero=1, over=0
+              153043 a=         0, b=         0, cin=0, cout=z, op=6, out=       768, zero=1, over=0
+              153044 a=         0, b=         0, cin=0, cout=z, op=6, out=       512, zero=1, over=0
+              153047 a=         0, b=         0, cin=0, cout=z, op=6, out=      1536, zero=1, over=0
+              153048 a=         0, b=         0, cin=0, cout=z, op=6, out=      1024, zero=1, over=0
+              153051 a=         0, b=         0, cin=0, cout=z, op=6, out=      3072, zero=1, over=0
+              153052 a=         0, b=         0, cin=0, cout=z, op=6, out=      2048, zero=1, over=0
+              153055 a=         0, b=         0, cin=0, cout=z, op=6, out=      6144, zero=1, over=0
+              153056 a=         0, b=         0, cin=0, cout=z, op=6, out=      4096, zero=1, over=0
+              153059 a=         0, b=         0, cin=0, cout=z, op=6, out=     12288, zero=1, over=0
+              153060 a=         0, b=         0, cin=0, cout=z, op=6, out=      8192, zero=1, over=0
+              153063 a=         0, b=         0, cin=0, cout=z, op=6, out=     24576, zero=1, over=0
+              153064 a=         0, b=         0, cin=0, cout=z, op=6, out=     16384, zero=1, over=0
+              153067 a=         0, b=         0, cin=0, cout=z, op=6, out=     49152, zero=1, over=0
+              153068 a=         0, b=         0, cin=0, cout=z, op=6, out=     32768, zero=1, over=0
+              153071 a=         0, b=         0, cin=0, cout=z, op=6, out=     98304, zero=1, over=0
+              153072 a=         0, b=         0, cin=0, cout=z, op=6, out=     65536, zero=1, over=0
+              153075 a=         0, b=         0, cin=0, cout=z, op=6, out=    196608, zero=1, over=0
+              153076 a=         0, b=         0, cin=0, cout=z, op=6, out=    131072, zero=1, over=0
+              153079 a=         0, b=         0, cin=0, cout=z, op=6, out=    393216, zero=1, over=0
+              153080 a=         0, b=         0, cin=0, cout=z, op=6, out=    262144, zero=1, over=0
+              153083 a=         0, b=         0, cin=0, cout=z, op=6, out=    786432, zero=1, over=0
+              153084 a=         0, b=         0, cin=0, cout=z, op=6, out=    524288, zero=1, over=0
+              153087 a=         0, b=         0, cin=0, cout=z, op=6, out=   1572864, zero=1, over=0
+              153088 a=         0, b=         0, cin=0, cout=z, op=6, out=   1048576, zero=1, over=0
+              153091 a=         0, b=         0, cin=0, cout=z, op=6, out=   3145728, zero=1, over=0
+              153092 a=         0, b=         0, cin=0, cout=z, op=6, out=   2097152, zero=1, over=0
+              153095 a=         0, b=         0, cin=0, cout=z, op=6, out=   6291456, zero=1, over=0
+              153096 a=         0, b=         0, cin=0, cout=z, op=6, out=   4194304, zero=1, over=0
+              153099 a=         0, b=         0, cin=0, cout=z, op=6, out=  12582912, zero=1, over=0
+              153100 a=         0, b=         0, cin=0, cout=z, op=6, out=   8388608, zero=1, over=0
+              153103 a=         0, b=         0, cin=0, cout=z, op=6, out=  25165824, zero=1, over=0
+              153104 a=         0, b=         0, cin=0, cout=z, op=6, out=  16777216, zero=1, over=0
+              153107 a=         0, b=         0, cin=0, cout=z, op=6, out=  50331648, zero=1, over=0
+              153108 a=         0, b=         0, cin=0, cout=z, op=6, out=  33554432, zero=1, over=0
+              153111 a=         0, b=         0, cin=0, cout=z, op=6, out= 100663296, zero=1, over=0
+              153112 a=         0, b=         0, cin=0, cout=z, op=6, out=  67108864, zero=1, over=0
+              153115 a=         0, b=         0, cin=0, cout=z, op=6, out= 201326592, zero=1, over=0
+              153116 a=         0, b=         0, cin=0, cout=z, op=6, out= 134217728, zero=1, over=0
+              153119 a=         0, b=         0, cin=0, cout=z, op=6, out= 402653184, zero=1, over=0
+              153120 a=         0, b=         0, cin=0, cout=z, op=6, out= 268435456, zero=1, over=0
+              153123 a=         0, b=         0, cin=0, cout=z, op=6, out= 805306368, zero=1, over=0
+              153124 a=         0, b=         0, cin=0, cout=z, op=6, out= 536870912, zero=1, over=0
+              153127 a=         0, b=         0, cin=0, cout=z, op=6, out=1610612736, zero=1, over=0
+              153128 a=         0, b=         0, cin=0, cout=z, op=6, out=1073741824, zero=1, over=0
+              153129 a=         0, b=         0, cin=0, cout=z, op=6, out=1073741824, zero=1, over=1
+              153131 a=         0, b=         0, cin=0, cout=z, op=6, out=3221225472, zero=1, over=1
+              153132 a=         0, b=         0, cin=0, cout=z, op=6, out=2147483648, zero=1, over=1
+              153134 a=         0, b=         0, cin=0, cout=z, op=6, out=2147483648, zero=1, over=0
+              153136 a=         0, b=         0, cin=0, cout=z, op=6, out=         0, zero=1, over=0
+              154000 a=         0, b=         0, cin=1, cout=z, op=6, out=         0, zero=1, over=0
+              155000 a=         0, b=         1, cin=0, cout=z, op=6, out=         0, zero=1, over=0
+              155010 a=         0, b=         1, cin=0, cout=z, op=6, out=         0, zero=x, over=0
+              155015 a=         0, b=         1, cin=0, cout=z, op=6, out=         1, zero=x, over=0
+              155016 a=         0, b=         1, cin=0, cout=z, op=6, out=         3, zero=x, over=0
+              155020 a=         0, b=         1, cin=0, cout=z, op=6, out=         7, zero=x, over=0
+              155024 a=         0, b=         1, cin=0, cout=z, op=6, out=        15, zero=x, over=0
+              155028 a=         0, b=         1, cin=0, cout=z, op=6, out=        31, zero=x, over=0
+              155032 a=         0, b=         1, cin=0, cout=z, op=6, out=        63, zero=x, over=0
+              155036 a=         0, b=         1, cin=0, cout=z, op=6, out=       127, zero=x, over=0
+              155040 a=         0, b=         1, cin=0, cout=z, op=6, out=       255, zero=x, over=0
+              155044 a=         0, b=         1, cin=0, cout=z, op=6, out=       511, zero=x, over=0
+              155048 a=         0, b=         1, cin=0, cout=z, op=6, out=      1023, zero=x, over=0
+              155052 a=         0, b=         1, cin=0, cout=z, op=6, out=      2047, zero=x, over=0
+              155056 a=         0, b=         1, cin=0, cout=z, op=6, out=      4095, zero=x, over=0
+              155060 a=         0, b=         1, cin=0, cout=z, op=6, out=      8191, zero=x, over=0
+              155064 a=         0, b=         1, cin=0, cout=z, op=6, out=     16383, zero=x, over=0
+              155068 a=         0, b=         1, cin=0, cout=z, op=6, out=     32767, zero=x, over=0
+              155072 a=         0, b=         1, cin=0, cout=z, op=6, out=     65535, zero=x, over=0
+              155076 a=         0, b=         1, cin=0, cout=z, op=6, out=    131071, zero=x, over=0
+              155080 a=         0, b=         1, cin=0, cout=z, op=6, out=    262143, zero=x, over=0
+              155084 a=         0, b=         1, cin=0, cout=z, op=6, out=    524287, zero=x, over=0
+              155088 a=         0, b=         1, cin=0, cout=z, op=6, out=   1048575, zero=x, over=0
+              155092 a=         0, b=         1, cin=0, cout=z, op=6, out=   2097151, zero=x, over=0
+              155096 a=         0, b=         1, cin=0, cout=z, op=6, out=   4194303, zero=x, over=0
+              155100 a=         0, b=         1, cin=0, cout=z, op=6, out=   8388607, zero=x, over=0
+              155104 a=         0, b=         1, cin=0, cout=z, op=6, out=  16777215, zero=x, over=0
+              155108 a=         0, b=         1, cin=0, cout=z, op=6, out=  33554431, zero=x, over=0
+              155112 a=         0, b=         1, cin=0, cout=z, op=6, out=  67108863, zero=x, over=0
+              155116 a=         0, b=         1, cin=0, cout=z, op=6, out= 134217727, zero=x, over=0
+              155120 a=         0, b=         1, cin=0, cout=z, op=6, out= 268435455, zero=x, over=0
+              155124 a=         0, b=         1, cin=0, cout=z, op=6, out= 536870911, zero=x, over=0
+              155128 a=         0, b=         1, cin=0, cout=z, op=6, out=1073741823, zero=x, over=0
+              155132 a=         0, b=         1, cin=0, cout=z, op=6, out=2147483647, zero=x, over=0
+              155134 a=         0, b=         1, cin=0, cout=z, op=6, out=2147483647, zero=x, over=1
+              155136 a=         0, b=         1, cin=0, cout=z, op=6, out=4294967295, zero=x, over=1
+              156000 a=         0, b=         1, cin=1, cout=z, op=6, out=4294967295, zero=x, over=1
+              157000 a=         1, b=         0, cin=0, cout=z, op=6, out=4294967295, zero=x, over=1
+              157010 a=         1, b=         0, cin=0, cout=z, op=6, out=4294967294, zero=x, over=1
+              157011 a=         1, b=         0, cin=0, cout=z, op=6, out=4294967292, zero=x, over=1
+              157015 a=         1, b=         0, cin=0, cout=z, op=6, out=4294967289, zero=x, over=1
+              157019 a=         1, b=         0, cin=0, cout=z, op=6, out=4294967281, zero=x, over=1
+              157023 a=         1, b=         0, cin=0, cout=z, op=6, out=4294967265, zero=x, over=1
+              157027 a=         1, b=         0, cin=0, cout=z, op=6, out=4294967233, zero=x, over=1
+              157031 a=         1, b=         0, cin=0, cout=z, op=6, out=4294967169, zero=x, over=1
+              157035 a=         1, b=         0, cin=0, cout=z, op=6, out=4294967041, zero=x, over=1
+              157039 a=         1, b=         0, cin=0, cout=z, op=6, out=4294966785, zero=x, over=1
+              157043 a=         1, b=         0, cin=0, cout=z, op=6, out=4294966273, zero=x, over=1
+              157047 a=         1, b=         0, cin=0, cout=z, op=6, out=4294965249, zero=x, over=1
+              157051 a=         1, b=         0, cin=0, cout=z, op=6, out=4294963201, zero=x, over=1
+              157055 a=         1, b=         0, cin=0, cout=z, op=6, out=4294959105, zero=x, over=1
+              157059 a=         1, b=         0, cin=0, cout=z, op=6, out=4294950913, zero=x, over=1
+              157063 a=         1, b=         0, cin=0, cout=z, op=6, out=4294934529, zero=x, over=1
+              157067 a=         1, b=         0, cin=0, cout=z, op=6, out=4294901761, zero=x, over=1
+              157071 a=         1, b=         0, cin=0, cout=z, op=6, out=4294836225, zero=x, over=1
+              157075 a=         1, b=         0, cin=0, cout=z, op=6, out=4294705153, zero=x, over=1
+              157079 a=         1, b=         0, cin=0, cout=z, op=6, out=4294443009, zero=x, over=1
+              157083 a=         1, b=         0, cin=0, cout=z, op=6, out=4293918721, zero=x, over=1
+              157087 a=         1, b=         0, cin=0, cout=z, op=6, out=4292870145, zero=x, over=1
+              157091 a=         1, b=         0, cin=0, cout=z, op=6, out=4290772993, zero=x, over=1
+              157095 a=         1, b=         0, cin=0, cout=z, op=6, out=4286578689, zero=x, over=1
+              157099 a=         1, b=         0, cin=0, cout=z, op=6, out=4278190081, zero=x, over=1
+              157103 a=         1, b=         0, cin=0, cout=z, op=6, out=4261412865, zero=x, over=1
+              157107 a=         1, b=         0, cin=0, cout=z, op=6, out=4227858433, zero=x, over=1
+              157111 a=         1, b=         0, cin=0, cout=z, op=6, out=4160749569, zero=x, over=1
+              157115 a=         1, b=         0, cin=0, cout=z, op=6, out=4026531841, zero=x, over=1
+              157119 a=         1, b=         0, cin=0, cout=z, op=6, out=3758096385, zero=x, over=1
+              157123 a=         1, b=         0, cin=0, cout=z, op=6, out=3221225473, zero=x, over=1
+              157127 a=         1, b=         0, cin=0, cout=z, op=6, out=2147483649, zero=x, over=1
+              157129 a=         1, b=         0, cin=0, cout=z, op=6, out=2147483649, zero=x, over=0
+              157131 a=         1, b=         0, cin=0, cout=z, op=6, out=         1, zero=x, over=0
+              158000 a=         1, b=         0, cin=1, cout=z, op=6, out=         1, zero=x, over=0
+              159000 a=         1, b=         1, cin=0, cout=z, op=6, out=         1, zero=x, over=0
+              159010 a=         1, b=         1, cin=0, cout=z, op=6, out=         1, zero=1, over=0
+              159015 a=         1, b=         1, cin=0, cout=z, op=6, out=         0, zero=1, over=0
+              160000 a=         1, b=         1, cin=1, cout=z, op=6, out=         0, zero=1, over=0
+              161000 a=         0, b=         0, cin=0, cout=z, op=3, out=         0, zero=1, over=0
+              161129 a=         0, b=         0, cin=0, cout=z, op=3, out=         0, zero=1, over=1
+              161134 a=         0, b=         0, cin=0, cout=z, op=3, out=         0, zero=1, over=0
+              161136 a=         0, b=         0, cin=0, cout=z, op=3, out=         1, zero=1, over=0
+              161141 a=         0, b=         0, cin=0, cout=z, op=3, out=         0, zero=1, over=0
+              162000 a=         0, b=         0, cin=1, cout=z, op=3, out=         0, zero=1, over=0
+              163000 a=         0, b=         1, cin=0, cout=z, op=3, out=         0, zero=1, over=0
+              163010 a=         0, b=         1, cin=0, cout=z, op=3, out=         0, zero=x, over=0
+              163134 a=         0, b=         1, cin=0, cout=z, op=3, out=         0, zero=x, over=1
+              163141 a=         0, b=         1, cin=0, cout=z, op=3, out=         1, zero=x, over=1
+              164000 a=         0, b=         1, cin=1, cout=z, op=3, out=         1, zero=x, over=1
+              165000 a=         1, b=         0, cin=0, cout=z, op=3, out=         1, zero=x, over=1
+              165129 a=         1, b=         0, cin=0, cout=z, op=3, out=         1, zero=x, over=0
+              165136 a=         1, b=         0, cin=0, cout=z, op=3, out=         0, zero=x, over=0
+              166000 a=         1, b=         0, cin=1, cout=z, op=3, out=         0, zero=x, over=0
+              167000 a=         1, b=         1, cin=0, cout=z, op=3, out=         0, zero=x, over=0
+              167010 a=         1, b=         1, cin=0, cout=z, op=3, out=         0, zero=1, over=0
+              168000 a=         1, b=         1, cin=1, cout=z, op=3, out=         0, zero=1, over=0
+              169000 a=         0, b=         0, cin=0, cout=z, op=3, out=         0, zero=1, over=0
+              169129 a=         0, b=         0, cin=0, cout=z, op=3, out=         0, zero=1, over=1
+              169134 a=         0, b=         0, cin=0, cout=z, op=3, out=         0, zero=1, over=0
+              169136 a=         0, b=         0, cin=0, cout=z, op=3, out=         1, zero=1, over=0
+              169141 a=         0, b=         0, cin=0, cout=z, op=3, out=         0, zero=1, over=0
+              170000 a=         0, b=         0, cin=1, cout=z, op=3, out=         0, zero=1, over=0
+              171000 a=         0, b=         1, cin=0, cout=z, op=3, out=         0, zero=1, over=0
+              171010 a=         0, b=         1, cin=0, cout=z, op=3, out=         0, zero=x, over=0
+              171134 a=         0, b=         1, cin=0, cout=z, op=3, out=         0, zero=x, over=1
+              171141 a=         0, b=         1, cin=0, cout=z, op=3, out=         1, zero=x, over=1
+              172000 a=         0, b=         1, cin=1, cout=z, op=3, out=         1, zero=x, over=1
+              173000 a=         1, b=         0, cin=0, cout=z, op=3, out=         1, zero=x, over=1
+              173129 a=         1, b=         0, cin=0, cout=z, op=3, out=         1, zero=x, over=0
+              173136 a=         1, b=         0, cin=0, cout=z, op=3, out=         0, zero=x, over=0
+              174000 a=         1, b=         0, cin=1, cout=z, op=3, out=         0, zero=x, over=0
+              175000 a=         1, b=         1, cin=0, cout=z, op=3, out=         0, zero=x, over=0
+              175010 a=         1, b=         1, cin=0, cout=z, op=3, out=         0, zero=1, over=0
+              176000 a=         1, b=         1, cin=1, cout=z, op=3, out=         0, zero=1, over=0
+              177000 a=         0, b=         0, cin=0, cout=z, op=3, out=         0, zero=1, over=0
+              177129 a=         0, b=         0, cin=0, cout=z, op=3, out=         0, zero=1, over=1
+              177134 a=         0, b=         0, cin=0, cout=z, op=3, out=         0, zero=1, over=0
+              177136 a=         0, b=         0, cin=0, cout=z, op=3, out=         1, zero=1, over=0
+              177141 a=         0, b=         0, cin=0, cout=z, op=3, out=         0, zero=1, over=0
+              178000 a=         0, b=         0, cin=1, cout=z, op=3, out=         0, zero=1, over=0
+              179000 a=         0, b=         1, cin=0, cout=z, op=3, out=         0, zero=1, over=0
+              179010 a=         0, b=         1, cin=0, cout=z, op=3, out=         0, zero=x, over=0
+              179134 a=         0, b=         1, cin=0, cout=z, op=3, out=         0, zero=x, over=1
+              179141 a=         0, b=         1, cin=0, cout=z, op=3, out=         1, zero=x, over=1
+              180000 a=         0, b=         1, cin=1, cout=z, op=3, out=         1, zero=x, over=1
+              181000 a=         1, b=         0, cin=0, cout=z, op=3, out=         1, zero=x, over=1
+              181129 a=         1, b=         0, cin=0, cout=z, op=3, out=         1, zero=x, over=0
+              181136 a=         1, b=         0, cin=0, cout=z, op=3, out=         0, zero=x, over=0
+              182000 a=         1, b=         0, cin=1, cout=z, op=3, out=         0, zero=x, over=0
+              183000 a=         1, b=         1, cin=0, cout=z, op=3, out=         0, zero=x, over=0
+              183010 a=         1, b=         1, cin=0, cout=z, op=3, out=         0, zero=1, over=0
+              184000 a=         1, b=         1, cin=1, cout=z, op=3, out=         0, zero=1, over=0
+              185000 a=         0, b=         0, cin=0, cout=z, op=3, out=         0, zero=1, over=0
+              185129 a=         0, b=         0, cin=0, cout=z, op=3, out=         0, zero=1, over=1
+              185134 a=         0, b=         0, cin=0, cout=z, op=3, out=         0, zero=1, over=0
+              185136 a=         0, b=         0, cin=0, cout=z, op=3, out=         1, zero=1, over=0
+              185141 a=         0, b=         0, cin=0, cout=z, op=3, out=         0, zero=1, over=0
+              186000 a=         0, b=         0, cin=1, cout=z, op=3, out=         0, zero=1, over=0
+              187000 a=         0, b=         1, cin=0, cout=z, op=3, out=         0, zero=1, over=0
+              187010 a=         0, b=         1, cin=0, cout=z, op=3, out=         0, zero=x, over=0
+              187134 a=         0, b=         1, cin=0, cout=z, op=3, out=         0, zero=x, over=1
+              187141 a=         0, b=         1, cin=0, cout=z, op=3, out=         1, zero=x, over=1
+              188000 a=         0, b=         1, cin=1, cout=z, op=3, out=         1, zero=x, over=1
+              189000 a=         1, b=         0, cin=0, cout=z, op=3, out=         1, zero=x, over=1
+              189129 a=         1, b=         0, cin=0, cout=z, op=3, out=         1, zero=x, over=0
+              189136 a=         1, b=         0, cin=0, cout=z, op=3, out=         0, zero=x, over=0
+              190000 a=         1, b=         0, cin=1, cout=z, op=3, out=         0, zero=x, over=0
+              191000 a=         1, b=         1, cin=0, cout=z, op=3, out=         0, zero=x, over=0
+              191010 a=         1, b=         1, cin=0, cout=z, op=3, out=         0, zero=1, over=0
+              192000 a=         1, b=         1, cin=1, cout=z, op=3, out=         0, zero=1, over=0
+              193000 a=         0, b=         0, cin=0, cout=z, op=3, out=         0, zero=1, over=0
+              193129 a=         0, b=         0, cin=0, cout=z, op=3, out=         0, zero=1, over=1
+              193134 a=         0, b=         0, cin=0, cout=z, op=3, out=         0, zero=1, over=0
+              193136 a=         0, b=         0, cin=0, cout=z, op=3, out=         1, zero=1, over=0
+              193141 a=         0, b=         0, cin=0, cout=z, op=3, out=         0, zero=1, over=0
+              194000 a=         0, b=         0, cin=1, cout=z, op=3, out=         0, zero=1, over=0
+              195000 a=         0, b=         1, cin=0, cout=z, op=3, out=         0, zero=1, over=0
+              195010 a=         0, b=         1, cin=0, cout=z, op=3, out=         0, zero=x, over=0
+              195134 a=         0, b=         1, cin=0, cout=z, op=3, out=         0, zero=x, over=1
+              195141 a=         0, b=         1, cin=0, cout=z, op=3, out=         1, zero=x, over=1
+              196000 a=         0, b=         1, cin=1, cout=z, op=3, out=         1, zero=x, over=1
+              197000 a=         1, b=         0, cin=0, cout=z, op=3, out=         1, zero=x, over=1
+              197129 a=         1, b=         0, cin=0, cout=z, op=3, out=         1, zero=x, over=0
+              197136 a=         1, b=         0, cin=0, cout=z, op=3, out=         0, zero=x, over=0
+              198000 a=         1, b=         0, cin=1, cout=z, op=3, out=         0, zero=x, over=0
+              199000 a=         1, b=         1, cin=0, cout=z, op=3, out=         0, zero=x, over=0
+              199010 a=         1, b=         1, cin=0, cout=z, op=3, out=         0, zero=1, over=0
+              200000 a=         1, b=         1, cin=1, cout=z, op=3, out=         0, zero=1, over=0
+              201000 a=         1, b=         1, cin=1, cout=z, op=3, out=         0, zero=1

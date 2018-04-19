@@ -1,0 +1,43 @@
+***CSE-341 Fall 2014 Semester***
+
+32-Bit ALU README File
+------------------------------------------------------------
+Created by: Matthew Strozyk
+
+ALU Control Signals(Op Codes):
+
+000 - AND
+001 - OR
+010 - ADD
+011 - SLT
+110 - SUB
+
+Description:
+	The ALU is made up of 32 one-bit ALUs. In each ALU, all of the 
+operations are supported and performed. The op code is wired to each
+ALU in order to choose which signal is to be outputted. You will see on 
+the diagram that there are a few ALUs that have additional wiring. This
+can be seen with the first, second-last, and last ALUs. 
+	For the first ALU, there is wiring from the last ALU in order
+to produce the correct signal for the SLT operation as only the first
+bit should be a 1 in the case that SLT is "true". For the second-last
+ALU, the extra wiring is used to compute the complete overflow of the
+32-bit ALU. For the last ALU, the extra wiring is also used to produce 
+the SLT signal in the first ALU. 
+	Continuing with the 32-bit ALU structure, there are blocks of 
+4 ALUs put together. This is called a "fourBitALU" in my ALU. This makes
+it much easier than putting 32 individual 1-bit ALUs together. Going along
+with this, there are "sixteenBitALU"s that put together four blocks of
+the fourBitALUs. Once again, this makes it much easier than putting it 
+together with individual ALUs. Lastly, the complete ALU has two 
+sixteenBitALUs that are wired together to produce one 32-Bit ALU.
+
+Level Notes:
+
+	On every level there is an AND of every available "zero" signal
+in order to produce the overall zero.
+
+	On the last level, that is the complete ALU, there are a series
+of logic gates that are used in order to compute the overflow. This is 
+NOT included at the lowest level of the single bit ALU.
+

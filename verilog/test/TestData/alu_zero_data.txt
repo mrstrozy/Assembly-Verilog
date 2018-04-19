@@ -1,0 +1,35 @@
+                   0 a=         x, b=         x, cout=x, op=x, out=         z, zero=z, over=z
+                   0 a=         x, b=         x, cout=x, op=x, out=         X, zero=x, over=x
+                1000 a=         0, b=         0, cout=x, op=0, out=         0, zero=1, over=1
+                3000 a=         0, b=         1, cout=x, op=0, out=         0, zero=x, over=1
+                5000 a=         1, b=         0, cout=x, op=0, out=         0, zero=x, over=1
+                7000 a=         1, b=         1, cout=x, op=0, out=         1, zero=1, over=1
+                9000 a=         0, b=         0, cout=x, op=1, out=         0, zero=1, over=0
+               11000 a=         0, b=         1, cout=x, op=1, out=         1, zero=x, over=1
+               13000 a=         1, b=         0, cout=x, op=1, out=         1, zero=x, over=0
+               15000 a=         1, b=         1, cout=x, op=1, out=         1, zero=1, over=0
+               17000 a=        25, b=        23, cout=x, op=2, out=        48, zero=x, over=1
+               18000 a=       256, b=     10000, cout=x, op=2, out=     10256, zero=x, over=1
+               19000 a=      2468, b=       333, cout=x, op=2, out=      2801, zero=x, over=1
+               20000 a= 429496729, b= 111111111, cout=x, op=2, out= 540607840, zero=x, over=1
+               21000 a=      8665, b=      1335, cout=x, op=2, out=     10000, zero=x, over=1
+               22000 a=      1123, b=       343, cout=x, op=2, out=      1466, zero=x, over=1
+               23000 a=     22367, b=        88, cout=x, op=2, out=     22455, zero=x, over=1
+               24000 a=     99786, b=        96, cout=x, op=2, out=     99882, zero=x, over=1
+               25000 a=       555, b=         5, cout=x, op=6, out=       550, zero=x, over=0
+               26000 a=         1, b=        34, cout=x, op=6, out=4294967263, zero=x, over=1
+               27000 a=        30, b=     32454, cout=x, op=6, out=4294934872, zero=x, over=1
+               28000 a=      1111, b=      1102, cout=x, op=6, out=         9, zero=x, over=0
+               29000 a=       333, b=       300, cout=x, op=6, out=        33, zero=x, over=0
+               30000 a=   4342394, b=   2000000, cout=x, op=6, out=   2342394, zero=x, over=0
+               31000 a=   1000000, b=    999999, cout=x, op=6, out=         1, zero=x, over=0
+               32000 a=   1123212, b=     11312, cout=x, op=6, out=   1111900, zero=x, over=0
+               33000 a=         0, b=        25, cout=x, op=3, out=         1, zero=x, over=1
+               34000 a=         0, b=         0, cout=x, op=3, out=         0, zero=1, over=0
+               35000 a=       123, b=       122, cout=x, op=3, out=         0, zero=x, over=0
+               36000 a=       555, b=       555, cout=x, op=3, out=         0, zero=1, over=0
+               37000 a=         1, b=        23, cout=x, op=3, out=         1, zero=x, over=1
+               38000 a=       250, b=       246, cout=x, op=3, out=         0, zero=x, over=0
+               39000 a=       250, b=       500, cout=x, op=3, out=         1, zero=x, over=1
+               40000 a=        32, b=        32, cout=x, op=3, out=         0, zero=1, over=0
+               41000 a=        32, b=        32, cout=x, op=3, out=         0, zero=1
